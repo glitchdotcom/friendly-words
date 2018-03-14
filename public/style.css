@@ -77,6 +77,13 @@ footer > a {
   color: #BBBBBB;
 }
 
+.glitchButton {
+  position: fixed !important;
+  top: 25px;
+  right: 25px;
+}
+    
+
 .nicejob {
   text-decoration: line-through;
 }
