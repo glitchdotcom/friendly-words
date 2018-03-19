@@ -16,7 +16,15 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/style.css">
+    
+    <script src="/vanilla-client.js" defer></script>
+    
+        
+    <!-- import the webpage's stylesheet -->
+    <link rel="stylesheet" href="/styles.css">
+    
+    <!-- import the webpage's javascript file -->
+    <script src="/vanilla-client.js" defer></script>
   </head>
   <body>
     <header>
@@ -27,15 +35,15 @@
 
     <main>
       <p class="bold">Oh hi,</p>
+      
       <p>Tell me your hopes and dreams:</p>
+      
       <form>
+        <input name="dream" type="text" maxlength="100" placeholder="Dreams!" aria-labelledby="submit-dream">
         
-        <label for="dream-input">
-          <input id="dream-input" type="text" maxlength="100" placeholder="Dreams!">
-        </label>
-        
-        <button type="submit">Submit</button>
+        <button type="submit" id="submit-dream">Submit Dream</button>
       </form>
+      
       <section class="dreams">
         <ul id="dreams">
         </ul>
@@ -43,15 +51,11 @@
     </main>
 
     <footer>
-      <a href="https://glitch.com">
-        Remix this in Glitch
-      </a>
+      Made with <a href="https://glitch.com">Glitch</a>
     </footer>
 
 
-    <script src="/vanilla-client.js"></script>
 
-    
     <!-- include the Glitch button to show what the webpage is about and
           to make it easier for folks to view source and remix -->
     <div class="glitchButton" style="position:fixed;top:20px;right:20px;"></div>
