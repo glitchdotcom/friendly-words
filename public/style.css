@@ -1,21 +1,18 @@
 /* styles */
 /* called by your view template */
 
-/* You might want to try something fancier: */
-/* less: http://lesscss.org/ */
-
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: helvetica, arial, sans-serif;
-  margin: 25px;
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
 }
 
 h1 {
-  font-weight: bold;
-  color: pink;
+  font-style: italic;
+  color: #373fff;
 }
 
 .bold {
