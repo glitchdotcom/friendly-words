@@ -29,7 +29,11 @@
       <p class="bold">Oh hi,</p>
       <p>Tell me your hopes and dreams:</p>
       <form>
-        <input type="text" maxlength="100" placeholder="Dreams!">
+        
+        <label for="dream-input">
+          <input id="dream-input" type="text" maxlength="100" placeholder="Dreams!">
+        </label>
+        
         <button type="submit">Submit</button>
       </form>
       <section class="dreams">
@@ -44,11 +48,8 @@
       </a>
     </footer>
 
-    <!-- Your web-app is https, so your scripts need to be too -->
-    <script src="https://code.jquery.com/jquery-2.2.1.min.js"
-            integrity="sha256-gvQgAFzTH6trSrAWoH1iPo9Xc96QxSZ3feW6kem+O00="
-            crossorigin="anonymous"></script>
-    <script src="/client.js"></script>
+
+    <script src="/vanilla-client.js"></script>
 
     
     <!-- include the Glitch button to show what the webpage is about and
