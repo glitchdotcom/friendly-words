@@ -4,10 +4,12 @@
 console.log('hello world :o');
 
 function getWords() {
-  $.get("/predicates").then((data) => {
-    console.log("yo", data);
-    $("#predicates").val(JSON.stringify(data));
-  });
-  $.get("/objects");
-  $.get("/word-pairs");
+  for(let category of ["predicates","objects","word-pairs"]) {
+    $.get("/"+category).then((data) => {
+      $("#"+category).text(data.join("\n"));
+    });
+  }
 }
+
+// On page load, get some words:
+$(getWords);
