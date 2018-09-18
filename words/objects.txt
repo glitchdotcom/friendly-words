@@ -13,7 +13,10 @@ actress
 adapter
 addition
 address
-adjustment
+
+
+
+adjustmenT
 advantage
 advertisement
 aftermath

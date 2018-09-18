@@ -21,7 +21,7 @@ const sample = (words) => {
 const pairs = (firstWords, secondWords) => {
   if(firstWords.length !== secondWords.length) {
     console.error("Word pair collection lengths must match.");
-    return null;
+    return null; 
   }
   
   const pairedWords = firstWords.map(
