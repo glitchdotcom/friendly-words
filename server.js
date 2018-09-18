@@ -24,17 +24,22 @@ const pairs = (firstWords, secondWords) => {
     return null;
   }
   
+  const pairedWords = firstWords.map(
+    (firstWord, index) => (`${firstWord}-${secondWords[index]}`)
+  );
+  
+  return pairedWords;
 }
 
 app.get('/word-pairs/', (req, res)=>{
-  res.sendJSON(pairs(sample(PREDICATES), sample(OBJECTS)));
+  res.send(pairs(sample(PREDICATES), sample(OBJECTS)));
 });
 app.get('/objects/', (req,res)=>{
-  res.sendJSON(sample(OBJECTS));
+  res.send(sample(OBJECTS));
 });
 
 app.get('/predicates/', (req,res)=>{
-  res.sendJSON(sample(PREDICATES));
+  res.send(sample(PREDICATES));
 });
 
 

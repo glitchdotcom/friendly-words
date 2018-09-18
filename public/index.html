@@ -21,6 +21,10 @@
     <link rel="stylesheet" href="/style.css">
     
     <!-- import the webpage's client-side javascript file -->
+    <script
+  src="https://code.jquery.com/jquery-3.3.1.min.js"
+  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+  crossorigin="anonymous"></script>
     <script src="/client.js" defer></script>
   </head>
   <body>
@@ -31,18 +35,13 @@
     </header>
 
     <main>
-      <p class="bold">Oh hi,</p>
+      <pre id="pairs"></pre>
+      <pre id="predicates"></pre>
+      <pre id="objects"></pre>
       
-      <p>Tell me your hopes and dreams:</p>
-      
-      <form>
-        <input name="dream" type="text" maxlength="100" placeholder="Dreams!" aria-labelledby="submit-dream">
-        <button type="submit" id="submit-dream">Submit Dream</button>
-      </form>
-      
-      <section class="dreams">
-        <ul id="dreams"></ul>
-      </section>
+      <button onclick="getWords()">
+        More words, please.
+      </button>
     </main>
 
     <footer>
