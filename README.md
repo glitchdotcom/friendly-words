@@ -1,5 +1,25 @@
-Welcome to Glitch
+Random Words
 =================
+
+This app can generate random words from the curated set of Glitch words.
+
+It provides four API endpoints:
+
+/word
+/words/{count=10}/
+word-pair/
+word-pairs/{count=10}/
+
+
+The Words
+---------
+The word lists are split between two files:
+
+words/objects.txt
+
+> The direct object receives the action of the sentence. The direct object is usually a noun or pronoun
+Objects are 
+
 
 Click `Show` in the header to see your app live. Updates to your code will instantly deploy and update live.
 
