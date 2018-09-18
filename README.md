@@ -9,17 +9,35 @@ API
 It provides 3 GET endpoints:
 
 `/word-pairs/`
+> Returns a JSON array of word pairings in the form of `["{predicate}-{object}", ...]`
+> Example: 
+> `$ curl https://friendly-words.glitch.me/word-pairs/`
+>
+> ["green-grasshopper","bramble-hockey","dour-cereal","oceanic-alibi","resonant-editorial","tin-clock","panoramic-match","honorable-ski","carnation-partridge","nettle-preface"]
 
-Sends a collection of word pairings in the form of `["{predicate}-{object}", ...]`
+`/objects/`
+> Returns a JSON array of words which are grammatical objects.
 
-[todo: paste curl example here]
+`/predicates/`
+> Returns a JSON array of words which are grammatical predicates.
 
 
 You can also GET from these endpoints:
-`/objects/`
-`/predicates/`
+
 
 To get a sample of just objects or predicates.
+
+Examples:
+```
+$ curl https://friendly-words.glitch.me/word-pairs/
+["green-grasshopper","bramble-hockey","dour-cereal","oceanic-alibi","resonant-editorial","tin-clock","panoramic-match","honorable-ski","carnation-partridge","nettle-preface"]
+
+$ curl https://friendly-words.glitch.me/predicates/
+["warp","windy","paper","shrouded","iridescent","sage","organic","modern","quark","incandescent"]
+
+$ curl https://friendly-words.glitch.me/objects/
+["millennium","report","guardian","match","wallaby","turnip","range","jump","behavior","platinum"]
+```
 
 Landing Page
 ------------
