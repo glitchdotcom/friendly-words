@@ -8,33 +8,30 @@ API
 
 It provides 3 GET endpoints:
 
-`/word-pairs/`
-> Returns a JSON array of word pairings in the form of `["{predicate}-{object}", ...]`
-> Example: 
-> `$ curl https://friendly-words.glitch.me/word-pairs/`
->
-> ["green-grasshopper","bramble-hockey","dour-cereal","oceanic-alibi","resonant-editorial","tin-clock","panoramic-match","honorable-ski","carnation-partridge","nettle-preface"]
-
-`/objects/`
-> Returns a JSON array of words which are grammatical objects.
-
-`/predicates/`
-> Returns a JSON array of words which are grammatical predicates.
-
-
-You can also GET from these endpoints:
-
-
-To get a sample of just objects or predicates.
-
-Examples:
 ```
+/word-pairs/
+# Returns a JSON array of word pairings in the form of `["{predicate}-{object}", ...]`
+
+# For example:
 $ curl https://friendly-words.glitch.me/word-pairs/
 ["green-grasshopper","bramble-hockey","dour-cereal","oceanic-alibi","resonant-editorial","tin-clock","panoramic-match","honorable-ski","carnation-partridge","nettle-preface"]
+```
 
+```
+/predicates/
+
+# Returns a JSON array of words which are grammatical predicates.
+
+# For example:
 $ curl https://friendly-words.glitch.me/predicates/
 ["warp","windy","paper","shrouded","iridescent","sage","organic","modern","quark","incandescent"]
+```
 
+```
+/objects/
+# Returns a JSON array of words which are grammatical objects.
+
+# For example:
 $ curl https://friendly-words.glitch.me/objects/
 ["millennium","report","guardian","match","wallaby","turnip","range","jump","behavior","platinum"]
 ```
@@ -49,16 +46,16 @@ The Words
 
 The words are pulled from curated files. We want the words and their pairings to be friendly, positive, inspiring, whimsical, memorable, etc.  They should also be words that most people can easily remember and spell.
 
-We don't permit words that are reminisence of hate speech, insults, derogatory terms, etc. -- all of the words and their generated pairings should be safe for children of all cultures.
+All of the words and their generated pairings should be safe for children of all cultures. This means that we permit absolutely no word pairings that invoke to hate speech, hostility, derogatory terms, etc. 
 
-It's easy for a pair of benign words to be combined into something inappropriate, so whenever we notice a generated pair that is problematic, we'll remove at least one of the words from that pair so that it won't reoccur. We'll err on the side of trusting reports and removing words.
+Despite our best efforts, it's easy for a pair of benign words to be combined into something inappropriate. Whenever we notice a generated pair that is problematic, we'll remove at least one of the words from that pair so that it won't reoccur. We'll err on the side of trusting reports and removing potentially inappropriate words rather than defending the appropriate uses of a word.
 
-To add words to the list, use common sense.  If the word can be used as a slang term for an ethniticty or nationality, there's probably a context where it'll pair up with a verb or adjective that can make it feel unwelcome.
+When adding words to the list, an abundance of common sense is required. If the word can be used as a slang term for an ethniticty or nationality, there's probably a context where it'll pair up with a verb or adjective that can make it feel unwelcome... so be mindful and avoid those.
 
 The Word Files
 --------------
 
-To construct the word pairs, we pull from a list of *predicates* and a list of *direct objects*.  This allows us to put together word pairs that are more likely to to make grammatical sense, and therefore tend to be easier to say and remember.
+To construct the word pairs, we pull from a list of *predicates* and a list of *direct objects*.  This allows us to put together word pairs that are more likely to make grammatical sense, and therefore tend to be easier to say, type, and remember.
 
 `words/objects.txt`
 
@@ -70,7 +67,7 @@ To construct the word pairs, we pull from a list of *predicates* and a list of *
 
 For our purposes, the predicates are mostly verbs and adjectives.
 
-It's OK for a word to be duplicated between the objects and predicates lists so long as that word is valid in both contexts,  e.g. "buffalo buffalo" or "blue-blue".
+It's OK for a word to be duplicated between the objects and predicates lists so long as that word is valid in both contexts,  e.g. "buffalo-buffalo" or "blue-blue".
 
 Within either file, however, the words should be distinct, lower case, and contain only alphabetic characters.  These constraints are checked at build time.
 
