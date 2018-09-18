@@ -1,20 +1,23 @@
-// server.js
-// where your node app starts
+const express = require('express');
+const app = express();
+const fs = require('fs');
 
-// init project
-var express = require('express');
-var app = express();
-
-// we've started you off with Express, 
-// but feel free to use whatever libs or frameworks you'd like through `package.json`.
-
-// http://expressjs.com/en/starter/static-files.html
+// Host our static site, thereby providing our html, css, and js.
 app.use(express.static('public'));
 
-// http://expressjs.com/en/starter/basic-routing.html
-app.get('/', function(request, response) {
-  response.sendFile(__dirname + '/views/index.html');
-});
+// Load the words into memory:
+const getWords = (fileName) => {
+  const fileContents = fs.readFileSync(__dirname + `/words/${fileName}`, {encoding:'ascii'})
+  return fileContents.split("\n");
+}
+const objects = getWords('objects.txt');
+const predicates = getWords('predicates.txt');
+
+console.log(objects, predicates); 
+app.get('/word-pairs/', ()=>{});
+app.get('/objects/', ()=>{});
+app.get('/predicates/', ()=>{});
+
 
 // listen for requests :)
 var listener = app.listen(process.env.PORT, function() {
