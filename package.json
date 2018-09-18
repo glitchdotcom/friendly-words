@@ -7,6 +7,7 @@
   "description": "A simple Node app built on Express, instantly up and running.",
   "main": "server.js",
   "scripts": {
+    "build": "node words/normalize.js",
     "start": "node server.js"
   },
   "dependencies": {
