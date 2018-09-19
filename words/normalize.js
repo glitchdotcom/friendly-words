@@ -11,7 +11,7 @@ fileNames.forEach((fileName) => {
   
   // Reject any remaining uncorrectably entries:
   // (all words must be lower-case ASCII alphabetic characters, non-blank.)
-  const filteredWords = correctedWords.filter((word) => !!word.match(/^[a-z]+$/));
+  const filteredWords = correctedWords.filter((word) => /^[a-z]+$/.test(word));
   
   // Remove duplicates:
   const distinctWords = Array.from(new Set(filteredWords));
@@ -26,7 +26,7 @@ fileNames.forEach((fileName) => {
     return;
   }
 
-  fs.writeFileSync(__dirname + `/${fileName}`, newContents, {encoding:'ascii'});
+  fs.writeFileSync(`${__dirname}/${fileName}`, newContents, {encoding:'ascii'});
     
   const filteredCount = correctedWords.length - filteredWords.length;
   const distinctCount = filteredWords.length - distinctWords.length;
