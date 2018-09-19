@@ -27,7 +27,7 @@ const fs = require('fs');
   fs.writeFileSync(__dirname + `/${fileName}`, newContents, {encoding:'ascii'});
     
   const filteredCount = correctedWords.length - filteredWords.length;
-  const distinctCount = distinctWords.length - filteredWords.length;
+  const distinctCount = filteredWords.length - distinctWords.length;
   console.log(`Normalized ${fileName}`);
   console.log(`Invalid entries removed: ${filteredCount}`);
   console.log(`Duplicate entries removed: ${distinctCount}`);
