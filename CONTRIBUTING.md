@@ -14,4 +14,8 @@ Are you fixing a bug?
 
 Do you want to suggest an improvement or new words?
 ----------------
-- Read and understand *The Words* section in [readme.md]
+- Read and understand __The Words__ section in [readme.md](https://glitch.com/edit/#!/friendly-words?path=README.md)
+
+- Open a new GitHub pull request with the patch.
+
+- Ensure the PR description clearly describes the change you're proposing. Include the relevant issue number if applicable.
