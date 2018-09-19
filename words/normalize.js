@@ -1,7 +1,9 @@
 const fs = require('fs');
 
-["objects.txt", "predicates.txt"].forEach((fileName) => {
-  const contents = fs.readFileSync(__dirname + `/${fileName}`, {encoding:'ascii'});
+const fileNames = fs.readdirSync(__dirname).filter(name => name.endsWith('.txt'));
+
+fileNames.forEach((fileName) => {
+  const contents = fs.readFileSync(`${__dirname}/${fileName}`, {encoding:'ascii'});
   const words = contents.split("\n");
 
   // Start by correcting any casing or whitespace bugs:
