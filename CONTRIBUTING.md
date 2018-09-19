@@ -6,7 +6,7 @@ Welcome! We'd love to have you help contribute great, friendly words (and bugfix
 
 ~When contributing to this repository, please first discuss the change you wish to make via GitHub issue or other methods (Tweeting [@Glitch](https://twitter.com/glitch) or posting to [our forum](https://support.glitch.com/) are good ways to get our attention at any point in the process) before making a change.~
 
-Please note we have a [code of conduct](https://glitch.com/edit/#!/friendly-words?path=code_of_conduct.md), please follow it in all your interactions with the project and other contributors.
+Please note we have a [code of conduct](https://glitch.com/edit/#!/friendly-words?path=CODE_OF_CONDUCT.md), please follow it in all your interactions with the project and other contributors.
 
 Workflow
 ----------------
