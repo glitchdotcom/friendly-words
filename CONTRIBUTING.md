@@ -12,5 +12,6 @@ Are you fixing a bug?
 
 - Ensure the PR description clearly describes the problem and solution. Include the relevant issue number if applicable.
 
-Do you want to suggest an improvement or new word?
+Do you want to suggest an improvement or new words?
 ----------------
+- Read and understand *The Words* section in [readme.md]
