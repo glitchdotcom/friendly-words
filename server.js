@@ -39,14 +39,14 @@ const pairs = (firstWords, secondWords) => {
 }
 
 app.get('/word-pairs/', (req, res)=>{
-  res.send(pairs(sample(PREDICATES), sample(OBJECTS)));
+  res.json(pairs(sample(PREDICATES), sample(OBJECTS)));
 });
 app.get('/objects/', (req,res)=>{
-  res.send(sample(OBJECTS));
+  res.json(sample(OBJECTS));
 });
 
 app.get('/predicates/', (req,res)=>{
-  res.send(sample(PREDICATES));
+  res.json(sample(PREDICATES));
 });
 
 
