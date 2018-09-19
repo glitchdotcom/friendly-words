@@ -1,6 +1,6 @@
 How to Contribute to friendly-words
 ================
-When contributing to this repository, please first discuss the change you wish to make via GitHub issue before making a change.
+Welcome! We'd love to have you help contribute great, friendly words (and bugfixes) for our generator. This should have all the information you need to do so. When contributing to this repository, please first discuss the change you wish to make via GitHub issue before making a change.
 
 Please note we have a [code of conduct](https://glitch.com/edit/#!/friendly-words?path=code_of_conduct.md), please follow it in all your interactions with the project.
 
