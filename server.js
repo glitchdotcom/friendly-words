@@ -54,3 +54,7 @@ app.get('/predicates/', (req,res)=>{
 var listener = app.listen(process.env.PORT, function() {
   console.log('Your app is listening on port ' + listener.address().port);
 });
+
+exports.printMsg = function() {
+  console.log("This is a test");
+}
