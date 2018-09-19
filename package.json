@@ -1,15 +1,13 @@
 {
-  "//1": "describes your app and its dependencies",
-  "//2": "https://docs.npmjs.com/files/package.json",
-  "//3": "updating this file will download and update your packages",
   "name": "friendly-words",
   "version": "0.0.1",
-  "description": "A simple Node app built on Express, instantly up and running.",
+  "description": "The Glitch word list, exposed as a tiny RESTful API.",
   "main": "server.js",
   "scripts": {
     "build": "node words/normalize.js",
     "start": "node server.js"
   },
+  "homepage": "https://glitch.com/~friendly-words",
   "dependencies": {
     "express": "^4.16.3",
     "lodash.samplesize": "^4.2.0"
