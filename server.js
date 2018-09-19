@@ -6,6 +6,13 @@ const sampleSize = require('lodash.samplesize');
 // Host our static site, thereby providing our html, css, and js.
 app.use(express.static('public'));
 
+// CORS - Allow pages from any domain to make requests to our API
+app.use(function(request, response, next) {
+  response.header("Access-Control-Allow-Origin", "*");
+  response.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  return next();
+});
+
 // Load the words into memory:
 const getWords = (fileName) => {
   const fileContents = fs.readFileSync(__dirname + `/words/${fileName}`, {encoding:'ascii'})
