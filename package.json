@@ -1,0 +1,28 @@
+{
+  "name": "friendly-words",
+  "version": "0.0.1",
+  "description": "The Glitch word list, exposed as a tiny RESTful API.",
+  "author": "Glitch <help@glitch.com>",
+  "main": "server.js",
+  "scripts": {
+    "build": "node words/normalize.js",
+    "start": "node server.js"
+  },
+  "homepage": "https://glitch.com/~friendly-words",
+  "dependencies": {
+    "express": "^4.16.3",
+    "lodash.samplesize": "^4.2.0"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/friendly-words"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
