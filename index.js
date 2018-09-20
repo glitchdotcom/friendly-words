@@ -28,6 +28,10 @@ const pairs = (firstWords, secondWords) => {
   return pairedWords;
 }
 
+exports.wordPairs = 
+exports.objects = 
+exports.predicates = 
+
 app.get('/word-pairs/', (req, res)=>{
   res.json(pairs(sample(PREDICATES), sample(OBJECTS)));
 });
