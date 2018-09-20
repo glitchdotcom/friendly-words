@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "The Glitch word list, exposed as a tiny RESTful API.",
   "author": "Glitch <help@glitch.com>",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "build": "node words/normalize.js",
     "start": "node server.js"
