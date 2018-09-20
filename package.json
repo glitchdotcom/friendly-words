@@ -1,17 +1,19 @@
 {
   "name": "friendly-words",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The Glitch word list, exposed as a tiny RESTful API.",
   "author": "Glitch <help@glitch.com>",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "build": "node words/normalize.js",
     "start": "node server.js"
   },
   "homepage": "https://glitch.com/~friendly-words",
   "dependencies": {
-    "express": "^4.16.3",
     "lodash.samplesize": "^4.2.0"
+  },
+  "devDependencies": {
+    "express": "^4.16.3"
   },
   "engines": {
     "node": "10.x"

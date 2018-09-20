@@ -1,44 +1,42 @@
 Random Words
 =================
 
-This app generates random word pairings from the curated set of Glitch words.
+This package generates random word pairings from the curated set of Glitch words.
 
-API
+Usage
 ---
 
-It provides 3 GET endpoints:
+It provides 3 endpoints:
 
+__wordPairs__
 ```
-/word-pairs/
 # Returns a JSON array of word pairings in the form of `["{predicate}-{object}", ...]`
 
 # For example:
-$ curl https://friendly-words.glitch.me/word-pairs/
-["green-grasshopper","bramble-hockey","dour-cereal","oceanic-alibi","resonant-editorial","tin-clock","panoramic-match","honorable-ski","carnation-partridge","nettle-preface"]
+const friendlyWords = require('friendly-words');
+console.log(friendlyWords.wordPairs);
+> ["green-grasshopper","bramble-hockey","dour-cereal","oceanic-alibi","resonant-editorial","tin-clock","panoramic-match","honorable-ski","carnation-partridge","nettle-preface"]
 ```
 
+__predicates__
 ```
-/predicates/
-
 # Returns a JSON array of words which are grammatical predicates.
 
 # For example:
-$ curl https://friendly-words.glitch.me/predicates/
-["warp","windy","paper","shrouded","iridescent","sage","organic","modern","quark","incandescent"]
+const friendlyWords = require('friendly-words');
+console.log(friendlyWords.predicates);
+> ["warp","windy","paper","shrouded","iridescent","sage","organic","modern","quark","incandescent"]
 ```
 
+__objects__
 ```
-/objects/
 # Returns a JSON array of words which are grammatical objects.
 
 # For example:
-$ curl https://friendly-words.glitch.me/objects/
-["millennium","report","guardian","match","wallaby","turnip","range","jump","behavior","platinum"]
+const friendlyWords = require('friendly-words');
+console.log(friendlyWords.objects);
+> ["millennium","report","guardian","match","wallaby","turnip","range","jump","behavior","platinum"]
 ```
-
-Landing Page
-------------
-We'll pull a sample from the API to populate the landing page of this site.
 
 
 The Words
