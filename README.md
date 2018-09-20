@@ -1,12 +1,12 @@
-Random Words
+Random Words Node Module
 =================
 
-This app generates random word pairings from the curated set of Glitch words.
+This package generates random word pairings from the curated set of Glitch words.
 
-API
+Usage
 ---
 
-It provides 3 GET endpoints:
+It provides 3 endpoints:
 
 ```
 /word-pairs/
