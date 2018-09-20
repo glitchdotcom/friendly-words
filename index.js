@@ -1,5 +1,4 @@
 const express = require('express');
-const app = express();
 const fs = require('fs');
 const sampleSize = require('lodash.samplesize');
 
@@ -28,17 +27,6 @@ const pairs = (firstWords, secondWords) => {
   return pairedWords;
 }
 
-exports.wordPairs = 
-exports.objects = 
-exports.predicates = 
-
-app.get('/word-pairs/', (req, res)=>{
-  res.json(pairs(sample(PREDICATES), sample(OBJECTS)));
-});
-app.get('/objects/', (req,res)=>{
-  res.json(sample(OBJECTS));
-});
-
-app.get('/predicates/', (req,res)=>{
-  res.json(sample(PREDICATES));
-});
+exports.wordPairs = pairs(sample(PREDICATES), sample(OBJECTS));
+exports.objects = sample(OBJECTS);
+exports.predicates = sample(PREDICATES);
