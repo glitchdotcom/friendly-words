@@ -4,7 +4,7 @@ Welcome! We'd love to have you help contribute great, friendly words (and bugfix
 
 We want contributing to be a collaborative process! Some great ways to get in touch with us while you're making changes are creating a GitHub issue, tweeting [@Glitch](https://twitter.com/glitch) or posting to [our forum](https://support.glitch.com/).
 
-Please note we have a [code of conduct](https://glitch.com/edit/#!/friendly-words?path=CODE_OF_CONDUCT.md), please follow it in all your interactions with the project and other contributors.
+Please note we have a [code of conduct](https://github.com/FogCreek/friendly-words/blob/master/CODE_OF_CONDUCT.md), please follow it in all your interactions with the project and other contributors.
 
 Workflow
 ----------------
@@ -14,7 +14,7 @@ We prefer changes to come through GitHub at this point (we're still working on b
 - Open a GitHub issue with a descriptive title, clear description and steps to reproduce.
 
 *If you're suggesting improvements/new words:*
-- Read and understand __The Words__ section in [readme.md](https://glitch.com/edit/#!/friendly-words?path=README.md:44:0)
+- Read and understand __The Words__ section in [readme.md](https://github.com/FogCreek/friendly-words/blob/master/README.md)
 
 *For all changes:*
 - Open a new GitHub pull request with the patch.

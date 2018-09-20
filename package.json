@@ -1,6 +1,6 @@
 {
   "name": "friendly-words",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The Glitch word list, exposed as a tiny RESTful API.",
   "author": "Glitch <help@glitch.com>",
   "main": "index.js",
@@ -19,7 +19,7 @@
     "node": "10.x"
   },
   "repository": {
-    "url": "https://glitch.com/edit/#!/friendly-words"
+    "url": "https://github.com/FogCreek/friendly-words"
   },
   "license": "MIT",
   "keywords": [

@@ -1,4 +1,4 @@
-Random Words Node Module
+Random Words
 =================
 
 This package generates random word pairings from the curated set of Glitch words.
