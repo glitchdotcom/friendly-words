@@ -10,8 +10,10 @@
   },
   "homepage": "https://glitch.com/~friendly-words",
   "dependencies": {
-    "express": "^4.16.3",
     "lodash.samplesize": "^4.2.0"
+  },
+  "devDependencies": {
+    "express": "^4.16.3"
   },
   "engines": {
     "node": "10.x"
