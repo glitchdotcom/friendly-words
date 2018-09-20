@@ -8,7 +8,7 @@ Please note we have a [code of conduct](https://glitch.com/edit/#!/friendly-word
 
 Workflow
 ----------------
-We prefer changes to come through GitHub at this point. 
+We prefer changes to come through GitHub at this point (we're still working on branch/merge features in Glitch!). 
 
 *If you're submitting a bugfix:*
 - Open a GitHub issue with a descriptive title, clear description and steps to reproduce.
