@@ -6,7 +6,7 @@ This package generates random word pairings from the curated set of Glitch words
 Usage
 ---
 
-It provides 3 endpoints:
+It provides 5 endpoints:
 
 __wordPairs__
 ```
@@ -36,6 +36,26 @@ __objects__
 const friendlyWords = require('friendly-words');
 console.log(friendlyWords.objects);
 > ["millennium","report","guardian","match","wallaby","turnip","range","jump","behavior","platinum"]
+```
+
+__teams__
+```
+# Returns a JSON array of words that are synonyms for 'team'
+
+# For example:
+const friendlyWords = require('friendly-words');
+console.log(friendlyWords.teams);
+> ["troupe","group","posse","coven","team","alliance","party","squad","crew","band"]
+```
+
+__teamPairs__
+```
+# Returns a JSON array of word pairings in the form of `["{team-synonym}-{object}", ...]`
+
+# For example:
+const friendlyWords = require('friendly-words');
+console.log(friendlyWords.teamPairs);
+> ["coal-coven","delirious-posse","boom-team","handsomely-crew","future-party","lyrical-band","abaft-troupe","thunder-squad","cumbersome-alliance","plain-group"]
 ```
 
 
