@@ -78,7 +78,7 @@ Next, clone [the repo](https://github.com/FogCreek/friendly-words) and make your
 
 Finally, log into NPM in the terminal with `npm login` and your NPM username/password. Navigate to the repo you've just updated, and `npm publish`. Check [friendly-words](https://www.npmjs.com/package/friendly-words), your updates (and the new version number) should be there!
 
-Made by [Fog Creek](https://fogcreek.com/)
+Made by [Glitch](https://glitch.com/)
 -------------------
 
 \ ゜o゜)ノ
