@@ -13,22 +13,22 @@ app.use(function(request, response, next) {
 });
 
 app.get('/word-pairs/', (req, res)=>{
-  res.json(friendlyWords.wordPairs);
+  res.json(friendlyWords.wordPairs());
 });
 app.get('/objects/', (req,res)=>{
-  res.json(friendlyWords.objects);
+  res.json(friendlyWords.objects());
 });
 
 app.get('/predicates/', (req,res)=>{
-  res.json(friendlyWords.predicates);
+  res.json(friendlyWords.predicates());
 });
 
 app.get('/team-pairs/', (req, res)=>{
-  res.json(friendlyWords.teamPairs);
+  res.json(friendlyWords.teamPairs());
 });
 
 app.get('/teams/', (req, res)=>{
-  res.json(friendlyWords.teams);
+  res.json(friendlyWords.teams());
 });
 
 
