@@ -8,6 +8,7 @@ const getWords = (fileName) => {
 }
 const OBJECTS = getWords('objects.txt');
 const PREDICATES = getWords('predicates.txt');
+const TEAMS = getWords('teams.txt');
 
 const sample = (words) => {
   return sampleSize(words, 10);
@@ -29,3 +30,5 @@ const pairs = (firstWords, secondWords) => {
 exports.wordPairs = pairs(sample(PREDICATES), sample(OBJECTS));
 exports.objects = sample(OBJECTS);
 exports.predicates = sample(PREDICATES);
+exports.teamPairs = pairs(sample(PREDICATES), sample(TEAMS));
+exports.teams = sample(TEAMS);

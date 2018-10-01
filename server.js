@@ -23,6 +23,14 @@ app.get('/predicates/', (req,res)=>{
   res.json(friendlyWords.predicates);
 });
 
+app.get('/team-pairs/', (req, res)=>{
+  res.json(friendlyWords.teamPairs);
+});
+
+app.get('/teams/', (req, res)=>{
+  res.json(friendlyWords.teams);
+});
+
 
 // listen for requests :)
 var listener = app.listen(process.env.PORT, function() {

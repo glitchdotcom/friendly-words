@@ -1,0 +1,10 @@
+alliance
+band
+coven
+crew
+group
+party
+posse
+squad
+team
+troupe
