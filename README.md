@@ -89,7 +89,16 @@ It's OK for a word to be duplicated between the objects and predicates lists so 
 
 Within a given file, the words should be alphabetized, distinct, and contain only lower-case alphabetic ASCII characters.  These constraints are checked at build time.
 
-Made by [Fog Creek](https://fogcreek.com/)
+Updating the NPM module
+-----------------------
+
+First you'll need to get an invite to help maintain the module. Ask anyone currently listed as a collaborator on [friendly-words](https://www.npmjs.com/package/friendly-words), they should be able to invite you. If you don't already have an NPM account, make one!
+
+Next, clone [the repo](https://github.com/FogCreek/friendly-words) and make your changes locally. You'll want to make sure you bump the version number in `package.json`. Commit, push, all that good stuff.
+
+Finally, log into NPM in the terminal with `npm login` and your NPM username/password. Navigate to the repo you've just updated, and `npm publish`. Check [friendly-words](https://www.npmjs.com/package/friendly-words), your updates (and the new version number) should be there!
+
+Made by [Glitch](https://glitch.com/)
 -------------------
 
 \ ゜o゜)ノ

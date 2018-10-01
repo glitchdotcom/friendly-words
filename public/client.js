@@ -1,5 +1,5 @@
 function getWords() {
-  ["predicates","objects","word-pairs"].forEach((category) => {
+  ["predicates","objects","word-pairs","team-pairs","teams"].forEach((category) => {
     $.get("/"+category).then((data) => {
       $("#"+category).text(data.join("\n"));
     });

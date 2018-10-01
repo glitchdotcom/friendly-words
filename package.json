@@ -1,6 +1,6 @@
 {
   "name": "friendly-words",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "The Glitch word list, exposed as a tiny RESTful API.",
   "author": "Glitch <help@glitch.com>",
   "main": "index.js",

@@ -27,8 +27,8 @@ const pairs = (firstWords, secondWords) => {
   return pairedWords;
 }
 
-exports.wordPairs = pairs(sample(PREDICATES), sample(OBJECTS));
-exports.objects = sample(OBJECTS);
-exports.predicates = sample(PREDICATES);
-exports.teamPairs = pairs(sample(PREDICATES), sample(TEAMS));
-exports.teams = sample(TEAMS);
+exports.wordPairs = () => {return pairs(sample(PREDICATES), sample(OBJECTS))};
+exports.objects = () => {return sample(OBJECTS)};
+exports.predicates = () => {return sample(PREDICATES)};
+exports.teamPairs = () => {return pairs(sample(PREDICATES), sample(TEAMS))};
+exports.teams = () => {return sample(TEAMS)};
