@@ -27,11 +27,13 @@ const pairs = (firstWords, secondWords) => {
   return pairedWords;
 }
 
-let wordPairs = () => {
-  return pairs(sample(PREDICATES), sample(OBJECTS));
+function wordPairs () {
+  let resp = pairs(sample(PREDICATES), sample(OBJECTS));
+  console.log(resp);
+  return resp;
 }
 
-exports.wordPairs = wordPairs();
+exports.wordPairs = wordPairs;
 exports.objects = sample(OBJECTS);
 exports.predicates = sample(PREDICATES);
 exports.teamPairs = pairs(sample(PREDICATES), sample(TEAMS));
