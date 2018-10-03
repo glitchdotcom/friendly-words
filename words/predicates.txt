@@ -195,6 +195,10 @@ cord
 cosmic
 cotton
 courageous
+<<<<<<< HEAD
+=======
+crack
+>>>>>>> 96d36bf82a9321b4c67685a0c2dc6070cd720984
 cream
 crimson
 crocus
@@ -1088,6 +1092,10 @@ wave
 wax
 weak
 wealthy
+<<<<<<< HEAD
+=======
+weed
+>>>>>>> 96d36bf82a9321b4c67685a0c2dc6070cd720984
 well
 west
 wheat

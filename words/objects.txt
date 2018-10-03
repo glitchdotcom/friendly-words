@@ -90,6 +90,10 @@ arrow
 art
 artichoke
 ash
+<<<<<<< HEAD
+=======
+ashtray
+>>>>>>> 96d36bf82a9321b4c67685a0c2dc6070cd720984
 asp
 asparagus
 asphalt
@@ -207,6 +211,10 @@ blinker
 blizzard
 block
 blouse
+<<<<<<< HEAD
+=======
+blowgun
+>>>>>>> 96d36bf82a9321b4c67685a0c2dc6070cd720984
 blue
 boa
 boar
@@ -478,6 +486,10 @@ cowbell
 cowl
 coyote
 crab
+<<<<<<< HEAD
+=======
+crack
+>>>>>>> 96d36bf82a9321b4c67685a0c2dc6070cd720984
 crafter
 crane
 crate
@@ -2138,6 +2150,10 @@ weaver
 web
 wedge
 wednesday
+<<<<<<< HEAD
+=======
+weed
+>>>>>>> 96d36bf82a9321b4c67685a0c2dc6070cd720984
 weeder
 week
 weight
