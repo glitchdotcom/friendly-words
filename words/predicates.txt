@@ -195,7 +195,6 @@ cord
 cosmic
 cotton
 courageous
-crack
 cream
 crimson
 crocus
@@ -1089,7 +1088,6 @@ wave
 wax
 weak
 wealthy
-weed
 well
 west
 wheat

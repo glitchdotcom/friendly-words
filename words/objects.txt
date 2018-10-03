@@ -90,7 +90,6 @@ arrow
 art
 artichoke
 ash
-ashtray
 asp
 asparagus
 asphalt
@@ -208,7 +207,6 @@ blinker
 blizzard
 block
 blouse
-blowgun
 blue
 boa
 boar
@@ -480,7 +478,6 @@ cowbell
 cowl
 coyote
 crab
-crack
 crafter
 crane
 crate
@@ -2141,7 +2138,6 @@ weaver
 web
 wedge
 wednesday
-weed
 weeder
 week
 weight
