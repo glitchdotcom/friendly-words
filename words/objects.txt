@@ -90,7 +90,6 @@ arrow
 art
 artichoke
 ash
-ashtray
 asp
 asparagus
 asphalt
@@ -208,7 +207,6 @@ blinker
 blizzard
 block
 blouse
-blowgun
 blue
 boa
 boar
@@ -861,7 +859,6 @@ guilty
 guitar
 gull
 gum
-gun
 guppy
 gym
 gymnast

@@ -5,7 +5,6 @@
   "author": "Glitch <help@glitch.com>",
   "main": "index.js",
   "scripts": {
-    "test": "",
     "build": "node words/normalize.js",
     "start": "node server.js"
   },
