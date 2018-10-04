@@ -23,10 +23,12 @@ fileNames.forEach((fileName) => {
   // construct our new file:
   const newContents = sortedWords.join('\n');
   
+  wordLists[`${fileName}`.slice(0,-4)] = sortedWords;
+  
   if(contents === newContents) {
     return;
   }
-  wordLists.fileName = sortedWords;
+
 
   fs.writeFileSync(`${__dirname}/${fileName}`, newContents, {encoding:'ascii'});
     
@@ -36,11 +38,9 @@ fileNames.forEach((fileName) => {
   console.log(`Invalid entries removed: ${filteredCount}`);
   console.log(`Duplicate entries removed: ${distinctCount}`);
   console.log(`Words in the file have been lower-cased, trimmed, and alphabetized.`);
-  console.log(wordLists.fileName)
 });
+console.log(wordLists)
 
-// from index.js
-const getWords = (fileName) => {
-  const fileContents = fs.readFileSync(__dirname + `/words/${fileName}`, {encoding:'ascii'})
-  return fileContents.split("\n");
-}
+exports.objects = () => {return wordLists.objects};
+exports.predicates = () => {return wordLists.predicates};
+exports.teams = () => {return wordLists.teams};

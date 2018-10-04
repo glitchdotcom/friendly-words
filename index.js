@@ -1,4 +1,5 @@
 const fs = require('fs');
+const data = require('words/normalize.js');
 
 // Load the words into memory:
 const getWords = (fileName) => {
