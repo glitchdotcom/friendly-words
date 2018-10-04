@@ -7,3 +7,5 @@ const TEAMS = data.teams();
 exports.objects = () => {return OBJECTS};
 exports.predicates = () => {return PREDICATES};
 exports.teams = () => {return TEAMS};
+
+// maybe this should be in words, to keep package files separate from testing or example?
