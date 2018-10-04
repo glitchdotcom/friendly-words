@@ -40,6 +40,8 @@ fileNames.forEach((fileName) => {
   console.log(`Words in the file have been lower-cased, trimmed, and alphabetized.`);
 });
 
+fs.writeFileSync(`generated/words.js`, wordLists, {encoding:'ascii'});
+
 // these will need to be manually updated if we add more word lists
 exports.objects = () => {return wordLists.objects};
 exports.predicates = () => {return wordLists.predicates};
