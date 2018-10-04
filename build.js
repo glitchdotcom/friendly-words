@@ -1,10 +1,10 @@
 const fs = require('fs');
 let wordLists = {};
 
-const fileNames = fs.readdirSync('./words/').filter(name => name.endsWith('.txt'));
+const fileNames = fs.readdirSync(__dirname+'/words/').filter(name => name.endsWith('.txt'));
 
 fileNames.forEach((fileName) => {
-  const contents = fs.readFileSync(`${__dirname}/${fileName}`, {encoding:'ascii'});
+  const contents = fs.readFileSync(`${__dirname}/words/${fileName}`, {encoding:'ascii'});
   const words = contents.split("\n");
 
   // Start by correcting any casing or whitespace bugs:
