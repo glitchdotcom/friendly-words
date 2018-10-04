@@ -17,18 +17,17 @@ e.g.,  we're assuming that the 'objects' collection exists...  it has a large nu
 import test from 'ava';
 const friendlyWords = require('./index');
 
-test('foo', t => {
-	t.pass();
+
+test('contents are unique', t=> {
+  t.deepEqual(friendlyWords.objects, Array.from(new Set(friendlyWords.objects))),
+  t.deepEqual(friendlyWords.predicates, Array.from(new Set(friendlyWords.predicates))),
+  t.deepEqual(friendlyWords.teams, Array.from(new Set(friendlyWords.teams)))
 });
-
-test('bar', async t => {
-	const bar = Promise.resolve('bar');
-
-	t.is(await bar, 'bar');
+test('contents are alphabetized', t=> { 
+  t.deepEqual(friendlyWords.objects, friendlyWords.objects.sort()), 
+  t.deepEqual(friendlyWords.predicates, friendlyWords.predicates.sort()), 
+  t.deepEqual(friendlyWords.teams, friendlyWords.teams.sort()) 
 });
-
-test('contents are unique', t=> { });
-test('contents are alphabetized', t=> { t.deepEqual(friendlyWords.objects, friendlyWords.objects.sort()) });
-test('"objects" exists', t=> { });
-test('"predicates" exists', t=> { });
-test('"teams" exists', t=> { });
+test('"objects" exists', t=> { t.truthy(friendlyWords.objects) });
+test('"predicates" exists', t=> { t.truthy(friendlyWords.predicates) });
+test('"teams" exists', t=> { t.truthy(friendlyWords.teams) });
