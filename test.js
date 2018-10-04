@@ -15,6 +15,7 @@ e.g.,  we're assuming that the 'objects' collection exists...  it has a large nu
 */
 
 import test from 'ava';
+const friendlyWords = require('./index');
 
 test('foo', t => {
 	t.pass();
@@ -27,7 +28,7 @@ test('bar', async t => {
 });
 
 test('contents are unique', t=> { });
-test('contents are alphabetized', t=> { });
+test('contents are alphabetized', t=> { t.deepEqual(friendlyWords.objects, friendlyWords.objects.sort()) });
 test('"objects" exists', t=> { });
 test('"predicates" exists', t=> { });
-test('contents are unique', t=> { });
+test('"teams" exists', t=> { });
