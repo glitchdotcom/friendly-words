@@ -5,7 +5,7 @@
   "author": "Glitch <help@glitch.com>",
   "main": "index.js",
   "scripts": {
-    "build": "node words/normalize.js",
+    "build": "node build.js",
     "start": "node server.js"
   },
   "homepage": "https://glitch.com/~friendly-words",

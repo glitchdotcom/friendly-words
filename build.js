@@ -1,7 +1,7 @@
 const fs = require('fs');
 let wordLists = {};
 
-const fileNames = fs.readdirSync(__dirname).filter(name => name.endsWith('.txt'));
+const fileNames = fs.readdirSync('./words/').filter(name => name.endsWith('.txt'));
 
 fileNames.forEach((fileName) => {
   const contents = fs.readFileSync(`${__dirname}/${fileName}`, {encoding:'ascii'});
@@ -40,9 +40,4 @@ fileNames.forEach((fileName) => {
   console.log(`Words in the file have been lower-cased, trimmed, and alphabetized.`);
 });
 
-fs.writeFileSync(`generated/words.js`, wordLists, {encoding:'ascii'});
-
-// these will need to be manually updated if we add more word lists
-exports.objects = () => {return wordLists.objects};
-exports.predicates = () => {return wordLists.predicates};
-exports.teams = () => {return wordLists.teams};
+fs.writeFileSync(`generated/words.json`, JSON.stringify(wordLists), {encoding:'ascii'});
