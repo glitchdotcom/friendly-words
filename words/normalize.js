@@ -23,12 +23,12 @@ fileNames.forEach((fileName) => {
   // construct our new file:
   const newContents = sortedWords.join('\n');
   
+  // put word lists into dictionary for module use
   wordLists[`${fileName}`.slice(0,-4)] = sortedWords;
   
   if(contents === newContents) {
     return;
   }
-
 
   fs.writeFileSync(`${__dirname}/${fileName}`, newContents, {encoding:'ascii'});
     
@@ -39,8 +39,8 @@ fileNames.forEach((fileName) => {
   console.log(`Duplicate entries removed: ${distinctCount}`);
   console.log(`Words in the file have been lower-cased, trimmed, and alphabetized.`);
 });
-console.log(wordLists)
 
+// these will need to be manually updated if we add more word lists
 exports.objects = () => {return wordLists.objects};
 exports.predicates = () => {return wordLists.predicates};
 exports.teams = () => {return wordLists.teams};

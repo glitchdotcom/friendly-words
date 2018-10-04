@@ -1,16 +1,8 @@
-const fs = require('fs');
-const data = require('words/normalize.js');
+const data = require('./words/normalize.js');
 
-// Load the words into memory:
-const getWords = (fileName) => {
-  const fileContents = fs.readFileSync(__dirname + `/words/${fileName}`, {encoding:'ascii'})
-  const contents = fileContents.split("\n");
-  //console.log(contents);
-  return contents;
-}
-const OBJECTS = getWords('objects.txt');
-const PREDICATES = getWords('predicates.txt');
-const TEAMS = getWords('teams.txt');
+const OBJECTS = data.objects();
+const PREDICATES = data.predicates();
+const TEAMS = data.teams();
 
 exports.objects = () => {return OBJECTS};
 exports.predicates = () => {return PREDICATES};
