@@ -73,7 +73,7 @@ When adding words to the list, an abundance of common sense is required. If the 
 The Word Files
 --------------
 
-To construct the word pairs, we pull from a list of *predicates* and a list of *direct objects*.  This allows us to put together word pairs that are more likely to make grammatical sense, and therefore tend to be easier to say, type, and remember.
+To construct the word lists, we pull from a list of *predicates* and a list of *direct objects*.  This allows us to put together word pairs that are more likely to make grammatical sense, and therefore tend to be easier to say, type, and remember.
 
 `words/objects.txt`
 
@@ -82,6 +82,10 @@ To construct the word pairs, we pull from a list of *predicates* and a list of *
 `words/predicates.txt`
 
 > The predicate expresses action or being within the sentence. The simple predicate contains the verb and can also contain modifying words, phrases, or clauses.
+
+`words/teams.txt`
+
+> Theses
 
 For our purposes, the predicates are mostly verbs and adjectives.
 
