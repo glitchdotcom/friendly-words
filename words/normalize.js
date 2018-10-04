@@ -35,3 +35,8 @@ fileNames.forEach((fileName) => {
   console.log(`Duplicate entries removed: ${distinctCount}`);
   console.log(`Words in the file have been lower-cased, trimmed, and alphabetized.`);
 });
+
+const getWords = (fileName) => {
+  const fileContents = fs.readFileSync(__dirname + `/words/${fileName}`, {encoding:'ascii'})
+  return fileContents.split("\n");
+}
