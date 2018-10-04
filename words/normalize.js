@@ -1,4 +1,5 @@
 const fs = require('fs');
+let wordLists = {};
 
 const fileNames = fs.readdirSync(__dirname).filter(name => name.endsWith('.txt'));
 
@@ -25,6 +26,7 @@ fileNames.forEach((fileName) => {
   if(contents === newContents) {
     return;
   }
+  wordLists.fileName = sortedWords;
 
   fs.writeFileSync(`${__dirname}/${fileName}`, newContents, {encoding:'ascii'});
     
@@ -34,6 +36,7 @@ fileNames.forEach((fileName) => {
   console.log(`Invalid entries removed: ${filteredCount}`);
   console.log(`Duplicate entries removed: ${distinctCount}`);
   console.log(`Words in the file have been lower-cased, trimmed, and alphabetized.`);
+  console.log(wordLists.fileName)
 });
 
 // from index.js
