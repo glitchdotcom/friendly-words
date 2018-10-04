@@ -31,22 +31,22 @@ const pairs = (firstWords, secondWords) => {
 }
 
 app.get('/word-pairs/', (req, res)=>{
-  res.json(pairs(sample(friendlyWords.predicates()), sample(friendlyWords.objects())));
+  res.json(pairs(sample(friendlyWords.predicates), sample(friendlyWords.objects)));
 });
 app.get('/objects/', (req,res)=>{
-  res.json(sample(friendlyWords.objects()));
+  res.json(sample(friendlyWords.objects));
 });
 
 app.get('/predicates/', (req,res)=>{
-  res.json(sample(friendlyWords.predicates()));
+  res.json(sample(friendlyWords.predicates));
 });
 
 app.get('/team-pairs/', (req, res)=>{
-  res.json(pairs(sample(friendlyWords.predicates()), sample(friendlyWords.teams())));
+  res.json(pairs(sample(friendlyWords.predicates), sample(friendlyWords.teams)));
 });
 
 app.get('/teams/', (req, res)=>{
-  res.json(sample(friendlyWords.teams()));
+  res.json(sample(friendlyWords.teams));
 });
 
 

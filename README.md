@@ -9,13 +9,13 @@ Usage
 ```
 const friendlyWords = require('friendly-words');
 
-friendlyWords.predicates();
+friendlyWords.predicates;
 > ["warp","windy","paper","shrouded","iridescent","sage",...
 
-friendlyWords.objects();
+friendlyWords.objects;
 > ["millennium","report","guardian","match","wallaby","turnip",...
 
-friendlyWords.teams();
+friendlyWords.teams;
 > ["troupe","group","posse","coven","team","alliance",...
 ```
 

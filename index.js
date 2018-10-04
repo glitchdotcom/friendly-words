@@ -4,8 +4,8 @@ const OBJECTS = data.objects();
 const PREDICATES = data.predicates();
 const TEAMS = data.teams();
 
-exports.objects = () => {return OBJECTS};
-exports.predicates = () => {return PREDICATES};
-exports.teams = () => {return TEAMS};
+exports.objects = OBJECTS;
+exports.predicates = PREDICATES;
+exports.teams = TEAMS;
 
 // maybe this should be in words, to keep package files separate from testing or example?
