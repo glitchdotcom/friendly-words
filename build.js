@@ -4,7 +4,7 @@ let wordLists = {};
 const fileNames = fs.readdirSync(__dirname+'/words/').filter(name => name.endsWith('.txt'));
 
 fileNames.forEach((fileName) => {
-  const contents = fs.readFileSync(`${__dirname}/words/${fileName}`, {encoding:'ascii'});
+  const contents = fs.readFileSync(`./words/${fileName}`, {encoding:'ascii'});
   const words = contents.split("\n");
 
   // Start by correcting any casing or whitespace bugs:
@@ -30,7 +30,7 @@ fileNames.forEach((fileName) => {
     return;
   }
 
-  fs.writeFileSync(`${__dirname}/${fileName}`, newContents, {encoding:'ascii'});
+  fs.writeFileSync(`./words/${fileName}`, newContents, {encoding:'ascii'});
     
   const filteredCount = correctedWords.length - filteredWords.length;
   const distinctCount = filteredWords.length - distinctWords.length;
