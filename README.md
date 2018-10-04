@@ -1,61 +1,22 @@
 Random Words
 =================
 
-This package generates random word pairings from the curated set of Glitch words.
+This package generates random word lists from the curated set of Glitch words.
 
 Usage
 ---
 
-It provides 5 endpoints:
-
-__wordPairs__
 ```
-# Returns a JSON array of word pairings in the form of `["{predicate}-{object}", ...]`
-
-# For example:
 const friendlyWords = require('friendly-words');
-console.log(friendlyWords.wordPairs());
-> ["green-grasshopper","bramble-hockey","dour-cereal","oceanic-alibi","resonant-editorial","tin-clock","panoramic-match","honorable-ski","carnation-partridge","nettle-preface"]
-```
 
-__predicates__
-```
-# Returns a JSON array of words which are grammatical predicates.
+friendlyWords.predicates();
+> ["warp","windy","paper","shrouded","iridescent","sage",...
 
-# For example:
-const friendlyWords = require('friendly-words');
-console.log(friendlyWords.predicates());
-> ["warp","windy","paper","shrouded","iridescent","sage","organic","modern","quark","incandescent"]
-```
+friendlyWords.objects();
+> ["millennium","report","guardian","match","wallaby","turnip",...
 
-__objects__
-```
-# Returns a JSON array of words which are grammatical objects.
-
-# For example:
-const friendlyWords = require('friendly-words');
-console.log(friendlyWords.objects());
-> ["millennium","report","guardian","match","wallaby","turnip","range","jump","behavior","platinum"]
-```
-
-__teams__
-```
-# Returns a JSON array of words that are synonyms for 'team'
-
-# For example:
-const friendlyWords = require('friendly-words');
-console.log(friendlyWords.teams());
-> ["troupe","group","posse","coven","team","alliance","party","squad","crew","band"]
-```
-
-__teamPairs__
-```
-# Returns a JSON array of word pairings in the form of `["{team-synonym}-{object}", ...]`
-
-# For example:
-const friendlyWords = require('friendly-words');
-console.log(friendlyWords.teamPairs());
-> ["coal-coven","delirious-posse","boom-team","handsomely-crew","future-party","lyrical-band","abaft-troupe","thunder-squad","cumbersome-alliance","plain-group"]
+friendlyWords.teams();
+> ["troupe","group","posse","coven","team","alliance",...
 ```
 
 
@@ -85,7 +46,7 @@ To construct the word lists, we pull from a list of *predicates* and a list of *
 
 `words/teams.txt`
 
-> Theses
+> This is a list of synonyms for "team".
 
 For our purposes, the predicates are mostly verbs and adjectives.
 
