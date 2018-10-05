@@ -34,7 +34,9 @@ test('contents are lower-case', t=> {
   t.deepEqual(friendlyWords.teams, friendlyWords.teams.join('|').toLowerCase().split('|'))
 });
 test('contents are a-z ASCII chars', t=> {
-  t.deepEqual(friendlyWords.objects, friendlyWords.objects.filter(
+  t.deepEqual(friendlyWords.objects, friendlyWords.objects.filter((word) => /^[a-z]+$/)),
+  t.deepEqual(friendlyWords.predicates, friendlyWords.predicates.filter((word) => /^[a-z]+$/)),
+  t.deepEqual(friendlyWords.teams, friendlyWords.teams.filter((word) => /^[a-z]+$/))
 });
 test('no empty array elements', t=> {
   t.deepEqual(friendlyWords.objects, friendlyWords.objects.filter(word => word.length > 0)),
