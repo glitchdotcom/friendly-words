@@ -31,10 +31,15 @@ test('contents are alphabetized', t=> {
 test('contents are lower-case', t=> {
   t.deepEqual(friendlyWords.objects, friendlyWords.objects.join('|').toLowerCase().split('|')),
   t.deepEqual(friendlyWords.predicates, friendlyWords.predicates.join('|').toLowerCase().split('|')),
-  t.deepEqual(friendlyWords.teams, friendlyWords.objects.teams('|').toLowerCase().split('|'))
+  t.deepEqual(friendlyWords.teams, friendlyWords.teams.join('|').toLowerCase().split('|'))
+});
+test('contents are a-z ASCII chars', t=> {
+  t.deepEqual(friendlyWords.objects, friendlyWords.objects.filter(
 });
 test('no empty array elements', t=> {
-  t.deepEqual(friendly
+  t.deepEqual(friendlyWords.objects, friendlyWords.objects.filter(word => word.length > 0)),
+  t.deepEqual(friendlyWords.predicates, friendlyWords.predicates.filter(word => word.length > 0)),
+  t.deepEqual(friendlyWords.teams, friendlyWords.teams.filter(word => word.length > 0))
 });
 test('"objects" exists', t=> { 
   t.truthy(friendlyWords.objects), 
