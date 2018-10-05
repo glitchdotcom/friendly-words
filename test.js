@@ -31,12 +31,12 @@ test('contents are alphabetized', t=> {
 test('"objects" exists', t=> { 
   t.truthy(friendlyWords.objects), 
   t.is(Array.isArray(friendlyWords.objects), true), 
-  t.not(friendlyWords.objects.length, 0) 
+  t.true(friendlyWords.objects.length > 2000) 
 });
 test('"predicates" exists', t=> { 
   t.truthy(friendlyWords.predicates), 
   t.is(Array.isArray(friendlyWords.predicates), true),
-  t.not(friendlyWords.predicates.length, 0) 
+  t.true(friendlyWords.predicates.length > 1000) 
 });
 test('"teams" exists', t=> { 
   t.truthy(friendlyWords.teams), 
