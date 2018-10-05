@@ -1,7 +1,7 @@
 const fs = require('fs');
-let wordLists = {};
+const wordLists = {};
 
-const fileNames = fs.readdirSync(__dirname+'/words/').filter(name => name.endsWith('.txt'));
+const fileNames = fs.readdirSync('./words/').filter(name => name.endsWith('.txt'));
 
 fileNames.forEach((fileName) => {
   const contents = fs.readFileSync(`./words/${fileName}`, {encoding:'ascii'});

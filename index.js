@@ -4,6 +4,6 @@ const OBJECTS = data.objects;
 const PREDICATES = data.predicates;
 const TEAMS = data.teams;
 
-exports.objects = OBJECTS;
+exports.objects = data.objects;
 exports.predicates = PREDICATES;
 exports.teams = TEAMS;

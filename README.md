@@ -1,7 +1,7 @@
 Random Words
 =================
 
-This package generates random word lists from the curated set of Glitch words.
+This package returns the curated lists of Glitch words, as used in project names and elsewhere.
 
 Usage
 ---
