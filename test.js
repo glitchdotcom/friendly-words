@@ -28,6 +28,18 @@ test('contents are alphabetized', t=> {
   t.deepEqual(friendlyWords.predicates, friendlyWords.predicates.sort()), 
   t.deepEqual(friendlyWords.teams, friendlyWords.teams.sort()) 
 });
-test('"objects" exists', t=> { t.truthy(friendlyWords.objects), t.is(Array.isArray(friendlyWords.objects), true), t.not(friendlyWords.objects.l });
-test('"predicates" exists', t=> { t.truthy(friendlyWords.predicates), t.is(Array.isArray(friendlyWords.predicates), true) });
-test('"teams" exists', t=> { t.truthy(friendlyWords.teams), t.is(Array.isArray(friendlyWords.teams), true) });
+test('"objects" exists', t=> { 
+  t.truthy(friendlyWords.objects), 
+  t.is(Array.isArray(friendlyWords.objects), true), 
+  t.not(friendlyWords.objects.length, 0) 
+});
+test('"predicates" exists', t=> { 
+  t.truthy(friendlyWords.predicates), 
+  t.is(Array.isArray(friendlyWords.predicates), true),
+  t.not(friendlyWords.predicates.length, 0) 
+});
+test('"teams" exists', t=> { 
+  t.truthy(friendlyWords.teams), 
+  t.is(Array.isArray(friendlyWords.teams), true),
+  t.not(friendlyWords.teams.length, 0) 
+});
