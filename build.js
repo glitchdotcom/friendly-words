@@ -1,9 +1,10 @@
 const fs = require('fs');
+const wordLists = {};
 
-const fileNames = fs.readdirSync(__dirname).filter(name => name.endsWith('.txt'));
+const fileNames = fs.readdirSync('./words/').filter(name => name.endsWith('.txt'));
 
 fileNames.forEach((fileName) => {
-  const contents = fs.readFileSync(`${__dirname}/${fileName}`, {encoding:'ascii'});
+  const contents = fs.readFileSync(`./words/${fileName}`, {encoding:'ascii'});
   const words = contents.split("\n");
 
   // Start by correcting any casing or whitespace bugs:
@@ -22,11 +23,14 @@ fileNames.forEach((fileName) => {
   // construct our new file:
   const newContents = sortedWords.join('\n');
   
+  // put word lists into dictionary for module use
+  wordLists[`${fileName}`.slice(0,-4)] = sortedWords;
+  
   if(contents === newContents) {
     return;
   }
 
-  fs.writeFileSync(`${__dirname}/${fileName}`, newContents, {encoding:'ascii'});
+  fs.writeFileSync(`./words/${fileName}`, newContents, {encoding:'ascii'});
     
   const filteredCount = correctedWords.length - filteredWords.length;
   const distinctCount = filteredWords.length - distinctWords.length;
@@ -35,3 +39,5 @@ fileNames.forEach((fileName) => {
   console.log(`Duplicate entries removed: ${distinctCount}`);
   console.log(`Words in the file have been lower-cased, trimmed, and alphabetized.`);
 });
+
+fs.writeFileSync(`generated/words.json`, JSON.stringify(wordLists), {encoding:'ascii'});

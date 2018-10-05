@@ -1,6 +1,7 @@
 const express = require('express');
 const app = express();
 const friendlyWords = require('./index');
+const sampleSize = require('lodash.samplesize');
 
 // Host our static site, thereby providing our html, css, and js.
 app.use(express.static('public'));
@@ -12,23 +13,40 @@ app.use(function(request, response, next) {
   return next();
 });
 
+const sample = (words) => {
+  return sampleSize(words, 10);
+}
+
+const pairs = (firstWords, secondWords) => {
+  if(firstWords.length !== secondWords.length) {
+    console.error("Word pair collection lengths must match.");
+    return null; 
+  }
+  
+  const pairedWords = firstWords.map(
+    (firstWord, index) => (`${firstWord}-${secondWords[index]}`)
+  );
+  
+  return pairedWords;
+}
+
 app.get('/word-pairs/', (req, res)=>{
-  res.json(friendlyWords.wordPairs());
+  res.json(pairs(sample(friendlyWords.predicates), sample(friendlyWords.objects)));
 });
 app.get('/objects/', (req,res)=>{
-  res.json(friendlyWords.objects());
+  res.json(sample(friendlyWords.objects));
 });
 
 app.get('/predicates/', (req,res)=>{
-  res.json(friendlyWords.predicates());
+  res.json(sample(friendlyWords.predicates));
 });
 
 app.get('/team-pairs/', (req, res)=>{
-  res.json(friendlyWords.teamPairs());
+  res.json(pairs(sample(friendlyWords.predicates), sample(friendlyWords.teams)));
 });
 
 app.get('/teams/', (req, res)=>{
-  res.json(friendlyWords.teams());
+  res.json(sample(friendlyWords.teams));
 });
 
 
