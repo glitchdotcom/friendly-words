@@ -28,6 +28,14 @@ test('contents are alphabetized', t=> {
   t.deepEqual(friendlyWords.predicates, friendlyWords.predicates.sort()), 
   t.deepEqual(friendlyWords.teams, friendlyWords.teams.sort()) 
 });
+test('contents are lower-case', t=> {
+  t.deepEqual(friendlyWords.objects, friendlyWords.objects.join('|').toLowerCase().split('|')),
+  t.deepEqual(friendlyWords.predicates, friendlyWords.predicates.join('|').toLowerCase().split('|')),
+  t.deepEqual(friendlyWords.teams, friendlyWords.objects.teams('|').toLowerCase().split('|'))
+});
+test('no empty array elements', t=> {
+  t.deepEqual(friendly
+});
 test('"objects" exists', t=> { 
   t.truthy(friendlyWords.objects), 
   t.is(Array.isArray(friendlyWords.objects), true), 
