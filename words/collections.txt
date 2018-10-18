@@ -1,0 +1,10 @@
+album
+assortment
+bricolage
+collection
+compilation
+melange
+mix
+playlist
+potpourri
+variety

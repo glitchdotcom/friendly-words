@@ -49,6 +49,14 @@ app.get('/teams/', (req, res)=>{
   res.json(sample(friendlyWords.teams));
 });
 
+app.get('/collection-pairs/', (req, res)=>{
+  res.json(pairs(sample(friendlyWords.predicates), sample(friendlyWords.collections)));
+});
+
+app.get('/collections/', (req, res)=>{
+  res.json(sample(friendlyWords.collections));
+});
+
 
 // listen for requests :)
 var listener = app.listen(process.env.PORT, function() {

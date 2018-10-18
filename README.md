@@ -17,6 +17,9 @@ friendlyWords.objects;
 
 friendlyWords.teams;
 > ["troupe","group","posse","coven","team","alliance",...
+
+friendlyWords.collections;
+> ["album","assortment","bricolage","collection","compilation","melange",...
 ```
 
 
@@ -47,6 +50,10 @@ Our word lists are highly-opinionated lists of *predicates* and *direct objects*
 `words/teams.txt`
 
 > This is a list of synonyms for "team".
+
+`words/collections.txt`
+
+> This is a list of synonyms for "collection".
 
 For our purposes, the predicates are mostly verbs and adjectives.
 
