@@ -17,6 +17,9 @@ friendlyWords.objects;
 
 friendlyWords.teams;
 > ["troupe","group","posse","coven","team","alliance",...
+
+friendlyWords.collections;
+> ["album","assortment","bricolage","collection","compilation","melange",...
 ```
 
 
