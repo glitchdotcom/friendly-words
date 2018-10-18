@@ -1,26 +1,27 @@
 import test from 'ava';
 const friendlyWords = require('./index');
+const lists = ["predicates","objects","teams","collections"];
 
 
 test('contents are unique', t=> {
-  t.deepEqual(friendlyWords.objects, Array.from(new Set(friendlyWords.objects))),
-  t.deepEqual(friendlyWords.predicates, Array.from(new Set(friendlyWords.predicates))),
-  t.deepEqual(friendlyWords.teams, Array.from(new Set(friendlyWords.teams)))
+  lists.forEach((category) => {
+    t.deepEqual(friendlyWords[category], Array.from(new Set(friendlyWords[category])))
+  });
 });
 test('contents are alphabetized', t=> { 
-  t.deepEqual(friendlyWords.objects, friendlyWords.objects.sort()), 
-  t.deepEqual(friendlyWords.predicates, friendlyWords.predicates.sort()), 
-  t.deepEqual(friendlyWords.teams, friendlyWords.teams.sort()) 
+  lists.forEach((category) => {
+    t.deepEqual(friendlyWords[category], friendlyWords[category].sort())
+  });
 });
 test('contents are lower-case', t=> {
-  t.deepEqual(friendlyWords.objects, friendlyWords.objects.join('|').toLowerCase().split('|')),
-  t.deepEqual(friendlyWords.predicates, friendlyWords.predicates.join('|').toLowerCase().split('|')),
-  t.deepEqual(friendlyWords.teams, friendlyWords.teams.join('|').toLowerCase().split('|'))
+  lists.forEach((category) => {
+    t.deepEqual(friendlyWords[category], friendlyWords[category].join('|').toLowerCase().split('|'))
+  });
 });
 test('contents are a-z ASCII chars', t=> {
-  t.deepEqual(friendlyWords.objects, friendlyWords.objects.filter((word) => /^[a-z]+$/)),
-  t.deepEqual(friendlyWords.predicates, friendlyWords.predicates.filter((word) => /^[a-z]+$/)),
-  t.deepEqual(friendlyWords.teams, friendlyWords.teams.filter((word) => /^[a-z]+$/))
+  lists.forEach((category) => {
+    t.deepEqual(friendlyWords[category], friendlyWords[category].filter((word) => /^[a-z]+$/))
+  });
 });
 test('no empty array elements', t=> {
   t.deepEqual(friendlyWords.objects, friendlyWords.objects.filter(word => word.length > 0)),
