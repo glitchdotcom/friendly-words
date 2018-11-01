@@ -627,7 +627,6 @@ ease
 eater
 echidna
 edge
-edger
 editor
 editorial
 education
@@ -1045,7 +1044,6 @@ lark
 lasagna
 lasher
 latency
-latex
 lathe
 laugh
 laundry
