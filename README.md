@@ -55,10 +55,6 @@ Our word lists are highly-opinionated lists of *predicates* and *direct objects*
 
 > This is a list of synonyms for "collection".
 
-`words/collections.txt`
-
-> This is a list of synonyms for "collection".
-
 For our purposes, the predicates are mostly verbs and adjectives.
 
 It's OK for a word to be duplicated between the objects and predicates lists so long as that word is valid in both contexts,  e.g. "buffalo-buffalo" or "lavender-lavender".
