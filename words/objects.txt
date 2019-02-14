@@ -171,7 +171,6 @@ bedbug
 bee
 beech
 beef
-beer
 beet
 beetle
 beginner
