@@ -229,6 +229,7 @@ creamy
 crimson
 crocus
 crystal
+cubic
 cuddly
 cultured
 cumbersome
@@ -338,9 +339,11 @@ excellent
 excited
 exciting
 exclusive
+expensive
 exuberant
 exultant
 fabulous
+faceted
 faint
 fair
 faithful
@@ -370,7 +373,9 @@ fir
 fire
 first
 fish
+fishy
 five
+fifth
 fixed
 flame
 flannel
@@ -378,6 +383,7 @@ flash
 flashy
 flawless
 flax
+flaxen
 flicker
 flint
 flower
@@ -388,15 +394,18 @@ fluttering
 foam
 foamy
 fog
+foggy
 foil
 foregoing
 forest
+forested
 fork
 fortunate
 fortune
 fossil
 foul
 four
+fourth
 freckle
 free
 freezing
@@ -406,6 +415,7 @@ friendly
 frill
 fringe
 frost
+frosted
 full
 functional
 funny
@@ -431,6 +441,7 @@ giant
 giddy
 gifted
 gigantic
+gilded
 ginger
 glacier
 glamorous
@@ -454,6 +465,7 @@ goofy
 gorgeous
 gossamer
 graceful
+grand
 grandiose
 granite
 grass
@@ -474,6 +486,7 @@ guttural
 habitual
 hail
 half
+halved
 hallowed
 handsome
 handsomely
@@ -489,6 +502,7 @@ heady
 healthy
 heartbreaking
 heather
+heathered
 heavenly
 heavy
 helix
@@ -507,6 +521,7 @@ holy
 honey
 honeysuckle
 honorable
+honored
 horn
 horse
 hospitable
@@ -520,6 +535,7 @@ hushed
 husky
 hyper
 hypnotic
+iced
 icy
 illustrious
 imaginary
@@ -537,6 +553,7 @@ industrious
 inexpensive
 infrequent
 ink
+inky
 innate
 inquisitive
 insidious
@@ -579,6 +596,8 @@ knotty
 knowing
 knowledgeable
 lace
+laced
+lacy
 lackadaisical
 lake
 languid
