@@ -16,3 +16,15 @@ bunch
 faction
 troop
 outfit
+bunch
+cluster
+gathering
+pack
+batch
+combination
+conglomerate
+league
+trust
+club
+lineup
+troupe

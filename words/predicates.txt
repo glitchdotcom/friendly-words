@@ -15,6 +15,7 @@ abundant
 accessible
 accidental
 accurate
+ace
 acoustic
 actually
 adaptable
@@ -410,6 +411,7 @@ glory
 glossy
 glow
 gold
+golden
 good
 goofy
 gorgeous
@@ -494,6 +496,7 @@ incredible
 indigo
 industrious
 inexpensive
+infrequent
 ink
 innate
 inquisitive
@@ -815,6 +818,7 @@ rift
 right
 righteous
 rightful
+rigorous
 ring
 ripe
 ripple
@@ -1131,3 +1135,13 @@ zinc
 zippy
 zircon
 zonked
+celestial
+turquoise
+ruby
+garnet
+amethyst
+sapphire
+topaz
+onyx
+citrine
+tourmaline

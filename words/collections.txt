@@ -3,11 +3,12 @@ assortment
 bricolage
 collection
 compilation
-conglomerate
 gumbo
 mashup
 melange
 mishmash
+pile
+array
 mix
 playlist
 potpourri
@@ -21,3 +22,14 @@ assembly
 set
 lot
 selection
+digest
+gathering
+heap
+stockpile
+kaleidoscope
+treasure
+hoard
+supply
+jumble
+constellation
+cornucopia de
