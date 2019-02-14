@@ -2282,3 +2282,16 @@ olivine
 jade
 dolomite
 amber
+cobalt
+copper
+candy
+chalk
+alder
+sycamore
+box
+bittersweet
+blackberry
+collard
+cress
+dogwood
+eucalyptus

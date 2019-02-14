@@ -26,6 +26,7 @@ adventurous
 agate
 agreeable
 ahead
+airy
 ajar
 alabaster
 alder
@@ -73,6 +74,7 @@ basalt
 battle
 bead
 beautiful
+bedecked
 befitting
 beneficial
 berry
@@ -85,9 +87,11 @@ billowy
 bird
 bitter
 blaze
+blazing
 bloom
 blossom
 blue
+blush
 blushing
 bog
 boiling
@@ -155,11 +159,13 @@ cherry
 chestnut
 chief
 childlike
+childish
 chip
 chisel
 chivalrous
 chocolate
 chrome
+circular
 citrine
 clammy
 classy
@@ -198,6 +204,7 @@ cosmic
 cotton
 courageous
 cream
+creamy
 crimson
 crocus
 crystal
@@ -247,7 +254,7 @@ deserted
 destiny
 detailed
 determined
-dew
+dewy
 diamond
 different
 diligent
@@ -622,6 +629,7 @@ maze
 meadow
 mellow
 melodic
+melodious
 melted
 merciful
 mercury
@@ -646,7 +654,9 @@ morning
 motley
 mountain
 mountainous
+mousy
 mud
+muddy
 mulberry
 mysterious
 narrow
@@ -796,7 +806,9 @@ quick
 quickest
 quiet
 quill
+quilled
 quilt
+quilted
 quirky
 quiver
 quixotic
@@ -840,6 +852,7 @@ road
 roan
 roasted
 robust
+rocky
 rogue
 romantic
 roomy
@@ -1023,6 +1036,7 @@ tan
 tangible
 tangy
 tar
+tarry
 tart
 tasteful
 tasty
@@ -1047,6 +1061,7 @@ tide
 tidy
 time
 tin
+tinny
 tiny
 titanium
 toothsome
@@ -1170,6 +1185,8 @@ bodacious
 wobbly
 grizzled
 succulent
+acute
+extreme
 tourmaline
 zircon
 pyrite
@@ -1178,3 +1195,6 @@ olivine
 jade
 dolomite
 amber
+cobalt
+copper
+chalk
