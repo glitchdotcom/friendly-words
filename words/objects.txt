@@ -2139,7 +2139,6 @@ wheel
 whimsey
 whip
 whippet
-whiskey
 whistle
 whitefish
 wholesaler
