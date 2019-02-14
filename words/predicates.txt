@@ -39,6 +39,7 @@ amazing
 amber
 ambiguous
 ambitious
+amenable
 amused
 amusing
 ancient
@@ -237,6 +238,7 @@ delicate
 delicious
 delightful
 delirious
+deluxe
 denim
 dent
 descriptive
@@ -375,6 +377,7 @@ frost
 full
 functional
 funny
+funky
 furry
 furtive
 fuschia
@@ -387,6 +390,7 @@ gamy
 garnet
 garrulous
 gaudy
+gelatinous
 gem
 general
 gentle
@@ -406,6 +410,7 @@ glib
 glimmer
 glistening
 glitter
+glittery
 glorious
 glory
 glossy
@@ -443,7 +448,9 @@ handsomely
 handy
 hanging
 happy
+hard
 harmonious
+harsh
 harvest
 hazel
 heady
@@ -549,6 +556,7 @@ laser
 lava
 lavender
 lavish
+lazy
 lead
 leaf
 lean
@@ -556,6 +564,7 @@ learned
 leather
 leeward
 legend
+legendary
 lemon
 level
 light
@@ -587,6 +596,7 @@ lumpy
 lunar
 lush
 luxuriant
+luxurious
 lying
 lyrical
 maddening
@@ -741,6 +751,8 @@ plucky
 plum
 plume
 plump
+pointy
+pointed
 poised
 polar
 polite
@@ -835,6 +847,7 @@ root
 rose
 rough
 round
+rounded
 rowan
 royal
 ruby
@@ -875,6 +888,7 @@ seed
 seemly
 selective
 separate
+separated
 sequoia
 serious
 shade
@@ -893,6 +907,7 @@ shrouded
 shy
 silent
 silk
+silken
 silky
 silly
 silver
@@ -933,9 +948,11 @@ spark
 sparkling
 special
 speckle
+speckled
 spectacular
 spectrum
 spice
+spiced
 spicy
 spiffy
 spiky
@@ -974,6 +991,7 @@ strong
 stump
 stupendous
 sturdy
+suave
 subdued
 subsequent
 substantial
@@ -1122,6 +1140,7 @@ woozy
 workable
 worried
 wry
+yellow
 yielding
 young
 youthful
@@ -1145,3 +1164,17 @@ topaz
 onyx
 citrine
 tourmaline
+peridot
+quartz
+bodacious
+wobbly
+grizzled
+succulent
+tourmaline
+zircon
+pyrite
+petalite
+olivine
+jade
+dolomite
+amber

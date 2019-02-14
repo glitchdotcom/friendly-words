@@ -32,4 +32,6 @@ hoard
 supply
 jumble
 constellation
+menu
+list
 cornucopia de
