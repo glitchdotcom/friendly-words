@@ -421,7 +421,6 @@ cobra
 cobweb
 cockatoo
 cockroach
-cocktail
 cocoa
 cod
 coffee
@@ -2153,7 +2152,6 @@ willow
 wind
 windscreen
 windshield
-wine
 wing
 winter
 wire
