@@ -112,6 +112,7 @@ avenue
 axolotl
 baboon
 backbone
+backpack
 bacon
 badge
 badger
@@ -172,7 +173,6 @@ bedbug
 bee
 beech
 beef
-beer
 beet
 beetle
 beginner
@@ -203,6 +203,7 @@ blackbird
 bladder
 blade
 blanket
+blender
 blinker
 blizzard
 block
@@ -236,7 +237,6 @@ brain
 brake
 branch
 brand
-brandy
 brass
 brazil
 bread
@@ -257,6 +257,7 @@ brother
 brow
 brush
 bubble
+bubbler
 buckaroo
 bucket
 budget
@@ -418,12 +419,12 @@ clutch
 coach
 coal
 coast
+coaster
 coat
 cobra
 cobweb
 cockatoo
 cockroach
-cocktail
 cocoa
 cod
 coffee
@@ -511,6 +512,7 @@ cucumber
 cup
 cupboard
 cupcake
+curio
 curler
 currency
 curtain
@@ -571,6 +573,7 @@ dinner
 dinosaur
 diploma
 direction
+dirigible
 dirt
 discovery
 dish
@@ -891,6 +894,7 @@ hawk
 haze
 headlight
 headline
+headphones
 healer
 health
 hearing
@@ -1158,6 +1162,7 @@ mascara
 mask
 mass
 mastodon
+mat
 match
 math
 may
@@ -1767,6 +1772,7 @@ slipper
 slope
 sloth
 slug
+smartphone
 smash
 smell
 smelt
@@ -1802,6 +1808,7 @@ sole
 song
 soprano
 sort
+soul
 sound
 soup
 sousaphone
@@ -2144,7 +2151,6 @@ wheel
 whimsey
 whip
 whippet
-whiskey
 whistle
 whitefish
 wholesaler
@@ -2157,7 +2163,6 @@ willow
 wind
 windscreen
 windshield
-wine
 wing
 winter
 wire

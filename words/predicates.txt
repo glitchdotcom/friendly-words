@@ -211,6 +211,7 @@ cut
 cute
 cyan
 cyber
+cyclic
 cypress
 daffodil
 daffy
@@ -500,6 +501,7 @@ insidious
 instinctive
 intelligent
 interesting
+intriguing
 invincible
 iridescent
 iris
@@ -565,6 +567,7 @@ little
 lively
 living
 lizard
+lofty
 long
 longing
 lopsided
@@ -715,6 +718,7 @@ phantom
 phase
 picayune
 pickle
+picturesque
 pie
 pine
 pineapple
@@ -831,6 +835,7 @@ rowan
 royal
 ruby
 ruddy
+rumbling
 rune
 rural
 rust
