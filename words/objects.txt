@@ -2297,3 +2297,8 @@ zircon
 zone
 zoo
 zoology
+jersey
+puppet
+concrete
+child
+sloop
