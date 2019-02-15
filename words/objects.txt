@@ -573,6 +573,7 @@ darkness
 dart
 dash
 date
+daughter
 dawn
 day
 dead
@@ -1884,6 +1885,7 @@ softball
 soil
 soldier
 sole
+son
 song
 soprano
 sort
@@ -2040,6 +2042,7 @@ teal
 team
 technician
 teeth
+telephone
 television
 teller
 temper
