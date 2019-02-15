@@ -113,6 +113,7 @@ attic
 attraction
 august
 aura
+aunt
 aurora
 author
 authority
@@ -219,6 +220,7 @@ blender
 blinker
 blizzard
 block
+bloom
 blouse
 blue
 boa
@@ -304,6 +306,7 @@ cactus
 cafe
 cake
 calf
+calculator
 camel
 camera
 camp
@@ -729,6 +732,7 @@ fan
 fang
 farm
 farmer
+father
 faucet
 fear
 feast
@@ -879,6 +883,7 @@ governor
 grade
 grain
 gram
+grandparent
 grape
 grass
 grasshopper
@@ -1305,6 +1310,7 @@ nation
 need
 needle
 neon
+nephew
 nerve
 nest
 net
@@ -2154,6 +2160,7 @@ tyrannosaurus
 umbrella
 unicorn
 utensil
+uncle
 vacation
 vacuum
 valley
