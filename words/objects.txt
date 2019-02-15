@@ -112,12 +112,13 @@ attention
 attic
 attraction
 august
-aura
 aunt
+aura
 aurora
 author
 authority
 authorization
+avatar
 avenue
 avocado
 axolotl
@@ -221,6 +222,7 @@ blinker
 blizzard
 block
 bloom
+blossom
 blouse
 blue
 boa
@@ -305,8 +307,8 @@ cabinet
 cactus
 cafe
 cake
-calf
 calculator
+calf
 camel
 camera
 camp
@@ -384,6 +386,7 @@ chance
 change
 channel
 chanter
+character
 chard
 charger
 chartreuse
@@ -401,6 +404,7 @@ chess
 chickadee
 chicken
 chicory
+child
 chill
 chiller
 chime
@@ -479,6 +483,7 @@ comfort
 comic
 comma
 composer
+concrete
 condition
 condor
 cone
@@ -863,6 +868,7 @@ girl
 giver
 glade
 glass
+glasses
 glazer
 glider
 glitter
@@ -1041,6 +1047,7 @@ jay
 jeep
 jelly
 jellyfish
+jersey
 jester
 jet
 jewel
@@ -1201,6 +1208,7 @@ mandolin
 mandrill
 mango
 manicure
+manuscript
 manx
 map
 maple
@@ -1481,6 +1489,7 @@ picture
 pie
 pig
 pigeon
+pigment
 pike
 pillow
 pilot
@@ -1587,6 +1596,7 @@ pump
 pumpkin
 punch
 punishment
+puppet
 puppy
 purchase
 purple
@@ -1760,6 +1770,7 @@ screen
 screw
 screwdriver
 scribe
+script
 sea
 seagull
 seahorse
@@ -1846,6 +1857,7 @@ slicer
 slime
 slip
 slipper
+sloop
 slope
 sloth
 slug
@@ -1903,6 +1915,7 @@ spark
 sparrow
 spear
 specialist
+spectacles
 speedboat
 spell
 sphere
@@ -1978,6 +1991,7 @@ suggestion
 suit
 summer
 sun
+sundae
 sunday
 sundial
 sunfish
@@ -2161,9 +2175,9 @@ twister
 typhoon
 tyrannosaurus
 umbrella
+uncle
 unicorn
 utensil
-uncle
 vacation
 vacuum
 valley
@@ -2297,14 +2311,4 @@ zircon
 zone
 zoo
 zoology
-jersey
-puppet
-concrete
-child
-sloop
-blossom
-avatar
-character
-sundae
-pigment
-manuscript
+queen
