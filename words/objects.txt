@@ -2302,3 +2302,9 @@ puppet
 concrete
 child
 sloop
+blossom
+avatar
+character
+sundae
+pigment
+manuscript
