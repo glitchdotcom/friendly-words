@@ -64,6 +64,7 @@ anglerfish
 angora
 animal
 anise
+anorak
 answer
 ant
 anteater
@@ -86,6 +87,8 @@ april
 aquarius
 arch
 archaeology
+archduchess
+archduke
 archeology
 archer
 area
@@ -153,6 +156,8 @@ barge
 baritone
 barnacle
 barometer
+baron
+baroness
 barracuda
 base
 baseball
@@ -328,6 +333,7 @@ caption
 capybara
 car
 caravan
+caravel
 caraway
 carbon
 card
@@ -351,6 +357,7 @@ cast
 castanet
 cat
 catamaran
+catboat
 catcher
 caterpillar
 catfish
@@ -508,6 +515,8 @@ cotton
 couch
 cougar
 cough
+count
+countess
 country
 course
 court
@@ -621,6 +630,7 @@ dirt
 discovery
 dish
 distance
+divan
 dive
 diver
 dodo
@@ -646,6 +656,7 @@ drain
 draw
 drawbridge
 drawer
+dreadnought
 dream
 dress
 dresser
@@ -660,6 +671,7 @@ drug
 drum
 dry
 dryer
+duchess
 duck
 duckling
 dugout
@@ -668,6 +680,7 @@ dungeon
 dust
 eagle
 ear
+earl
 earth
 earthquake
 earthworm
@@ -693,6 +706,8 @@ elf
 elk
 ellipse
 emery
+emperor
+empress
 emu
 end
 enemy
@@ -821,6 +836,7 @@ friction
 friday
 fridge
 friend
+frigate
 fright
 frill
 frog
@@ -831,6 +847,7 @@ fruit
 fuel
 fur
 furniture
+galleon
 galley
 galliform
 gallon
@@ -993,6 +1010,7 @@ hound
 hour
 hourglass
 house
+houseboat
 hovercraft
 hoverfly
 howler
@@ -1031,6 +1049,7 @@ insect
 interest
 iris
 iron
+ironclad
 island
 isthmus
 jackal
@@ -1068,6 +1087,7 @@ kale
 kangaroo
 kayak
 keeper
+ketch
 ketchup
 kettle
 kettledrum
@@ -1094,6 +1114,7 @@ koi
 krill
 laborer
 lace
+lady
 ladybug
 lake
 lamb
@@ -1114,6 +1135,7 @@ latency
 latex
 lathe
 laugh
+launch
 laundry
 lavender
 law
@@ -1142,6 +1164,7 @@ libra
 library
 license
 licorice
+lifeboat
 lift
 lifter
 light
@@ -1172,7 +1195,9 @@ lock
 locket
 locust
 lodestone
+longship
 look
+lord
 lotus
 louse
 lumber
@@ -1223,6 +1248,8 @@ market
 marlin
 marmoset
 marmot
+marquess
+marquis
 marshmallow
 marsupial
 marten
@@ -1279,9 +1306,11 @@ mockingbird
 modem
 mole
 mollusk
+monarch
 monday
 money
 mongoose
+monitor
 monkey
 month
 moon
@@ -1395,6 +1424,7 @@ ostrich
 otter
 ounce
 output
+outrigger
 oval
 overcoat
 owl
@@ -1404,6 +1434,7 @@ oxygen
 oyster
 package
 packet
+paddleboat
 page
 pail
 paint
@@ -1428,6 +1459,7 @@ parcel
 parent
 parenthesis
 park
+parka
 parrot
 parrotfish
 parsley
@@ -1477,6 +1509,7 @@ peripheral
 pest
 pet
 petalite
+pharaoh
 pheasant
 philosophy
 phone
@@ -1557,6 +1590,7 @@ poultry
 pound
 powder
 power
+pram
 prawn
 preface
 prepared
@@ -1566,6 +1600,7 @@ priest
 primrose
 prince
 princess
+principal
 print
 printer
 prison
@@ -1587,6 +1622,7 @@ pruner
 psychiatrist
 psychology
 ptarmigan
+puck
 pudding
 pufferfish
 puffin
@@ -1611,6 +1647,7 @@ quality
 quart
 quarter
 quartz
+queen
 question
 quicksand
 quiet
@@ -1635,6 +1672,7 @@ rain
 rainbow
 raincoat
 rainstorm
+raja
 rake
 random
 range
@@ -1793,9 +1831,11 @@ serpent
 servant
 server
 session
+settee
 shad
 shade
 shadow
+shah
 shake
 shaker
 shallot
@@ -1843,6 +1883,7 @@ skateboard
 ski
 skiff
 skink
+skipjack
 skirt
 skull
 skunk
@@ -1905,6 +1946,7 @@ soul
 sound
 soup
 sousaphone
+sovereign
 soy
 soybean
 space
@@ -1989,6 +2031,7 @@ suede
 sugar
 suggestion
 suit
+sultan
 summer
 sun
 sundae
@@ -2045,6 +2088,7 @@ target
 tarn
 tarp
 tarsier
+tartan
 taste
 taurus
 tax
@@ -2135,6 +2179,7 @@ trail
 train
 transport
 trapezoid
+trawler
 tray
 treatment
 tree
@@ -2207,9 +2252,12 @@ viper
 virgo
 visage
 viscose
+viscount
+viscountess
 vise
 vision
 visitor
+visor
 voice
 volcano
 vole
@@ -2218,6 +2266,7 @@ voyage
 vulture
 waiter
 waitress
+wakeboard
 walk
 walker
 wall
@@ -2311,47 +2360,16 @@ zircon
 zone
 zoo
 zoology
-queen
-duchess
-parka
-earl
-marquis
-marquess
-archduke
-archduchess
-count
-countess
-baron
-baroness
-lord
-lady
-monarch
-sovereign
-emperor
-empress
-viscount
-viscountess
-sultan
-shah
-raja
-pharaoh
-puck
-visor
-principal
-houseboat
-ketch
-launch
-longship
-lifeboat
-monitor
-outrigger
-paddleboat
-pram
-anorak
-skipjack
-trawler
-wakeboard
-caravel
-catboat
-dreadnought
-
+quasar
+apogee
+astronaut
+azimuth
+asteroid
+comet
+constellation
+corona
+cosmonaut
+crater
+equinox
+eclipse
+exoplanet
