@@ -70,6 +70,7 @@ ant
 anteater
 antelope
 anthropology
+antimatter
 antler
 antlion
 apartment
@@ -111,6 +112,7 @@ asteroid
 astronaut
 astronomy
 athlete
+atmosphere
 atom
 attack
 attempt
@@ -859,6 +861,7 @@ fruit
 fuel
 fur
 furniture
+galaxy
 galleon
 galley
 galliform
@@ -923,6 +926,7 @@ grandparent
 grape
 grass
 grasshopper
+gravity
 gray
 grease
 green
@@ -992,6 +996,7 @@ helium
 hell
 helmet
 help
+hemisphere
 hen
 hero
 heron
@@ -1292,6 +1297,7 @@ message
 metal
 meteor
 meteorite
+meteoroid
 meteorology
 meter
 methane
@@ -1320,6 +1326,7 @@ mochi
 mockingbird
 modem
 mole
+molecule
 mollusk
 monarch
 monday
@@ -1647,6 +1654,7 @@ pudding
 pufferfish
 puffin
 pull
+pulsar
 puma
 pump
 pumpkin
@@ -1797,6 +1805,7 @@ sandalwood
 sandwich
 sapphire
 sardine
+satellite
 satin
 saturday
 sauce
@@ -1980,6 +1989,7 @@ sparrow
 spear
 specialist
 spectacles
+spectrograph
 spectroscope
 spectrum
 speedboat
@@ -2011,6 +2021,7 @@ staircase
 stallion
 stamp
 star
+starburst
 starfish
 station
 statistic
@@ -2393,20 +2404,3 @@ zircon
 zone
 zoo
 zoology
-antimatter
-atmosphere
-atom
-comet
-asteroid
-nebula
-exoplanet
-galaxy
-lens
-gravity
-hemisphere
-satellite
-meteorite
-meteoroid
-microwave
-molecule
-pulsar
