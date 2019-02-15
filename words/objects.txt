@@ -74,6 +74,7 @@ antler
 antlion
 apartment
 aphid
+apogee
 apology
 apparatus
 apparel
@@ -106,6 +107,8 @@ asp
 asparagus
 asphalt
 asterisk
+asteroid
+astronaut
 astronomy
 athlete
 atom
@@ -125,6 +128,7 @@ avatar
 avenue
 avocado
 axolotl
+azimuth
 baboon
 backbone
 backpack
@@ -486,6 +490,7 @@ colt
 column
 columnist
 comb
+comet
 comfort
 comic
 comma
@@ -497,6 +502,7 @@ cone
 conga
 conifer
 consonant
+constellation
 constrictor
 continent
 contraption
@@ -510,6 +516,8 @@ cork
 cormorant
 corn
 cornet
+corona
+cosmonaut
 cost
 cotton
 couch
@@ -530,6 +538,7 @@ crab
 crafter
 crane
 crate
+crater
 crawdad
 crayfish
 crayon
@@ -612,6 +621,7 @@ detail
 detective
 devourer
 dew
+diagram
 diamond
 dibble
 dietician
@@ -688,6 +698,7 @@ earwig
 ease
 eater
 echidna
+eclipse
 edge
 edger
 editor
@@ -733,6 +744,7 @@ evening
 event
 exhaust
 existence
+exoplanet
 expansion
 experience
 expert
@@ -1170,6 +1182,7 @@ lifter
 light
 lighter
 lightning
+lightyear
 lilac
 lily
 limit
@@ -1277,6 +1290,8 @@ menu
 mercury
 message
 metal
+meteor
+meteorite
 meteorology
 meter
 methane
@@ -1345,6 +1360,7 @@ nape
 napkin
 narwhal
 nation
+nebula
 need
 needle
 neon
@@ -1368,6 +1384,7 @@ nose
 note
 notebook
 notify
+nova
 novel
 november
 number
@@ -1380,6 +1397,7 @@ oatmeal
 objective
 oboe
 observation
+observatory
 ocarina
 occupation
 ocean
@@ -1410,6 +1428,7 @@ opossum
 option
 orange
 orangutan
+orbit
 orca
 orchestra
 orchid
@@ -1503,6 +1522,7 @@ pepper
 perch
 perfume
 peridot
+perigee
 period
 periodical
 peripheral
@@ -1647,6 +1667,7 @@ quality
 quart
 quarter
 quartz
+quasar
 queen
 question
 quicksand
@@ -1877,6 +1898,7 @@ silverfish
 sing
 singer
 single
+singularity
 sink
 skate
 skateboard
@@ -1958,6 +1980,8 @@ sparrow
 spear
 specialist
 spectacles
+spectroscope
+spectrum
 speedboat
 spell
 sphere
@@ -2042,8 +2066,10 @@ sunflower
 sunscreen
 sunset
 sunshine
+sunspot
 sunstone
 supermarket
+supernova
 supply
 surf
 surfboard
@@ -2067,6 +2093,7 @@ swordtail
 sycamore
 syrup
 system
+syzygy
 table
 tablecloth
 tabletop
@@ -2101,6 +2128,7 @@ team
 technician
 teeth
 telephone
+telescope
 television
 teller
 temper
@@ -2219,9 +2247,11 @@ twist
 twister
 typhoon
 tyrannosaurus
+umbra
 umbrella
 uncle
 unicorn
+universe
 utensil
 vacation
 vacuum
@@ -2289,6 +2319,7 @@ watchmaker
 water
 waterfall
 wave
+wavelength
 wax
 way
 wealth
@@ -2337,6 +2368,7 @@ word
 work
 workshop
 worm
+wormhole
 wound
 wren
 wrench
@@ -2353,6 +2385,7 @@ yew
 yogurt
 yoke
 zebra
+zenith
 zephyr
 zinc
 zipper
@@ -2360,16 +2393,20 @@ zircon
 zone
 zoo
 zoology
-quasar
-apogee
-astronaut
-azimuth
-asteroid
+antimatter
+atmosphere
+atom
 comet
-constellation
-corona
-cosmonaut
-crater
-equinox
-eclipse
+asteroid
+nebula
 exoplanet
+galaxy
+lens
+gravity
+hemisphere
+satellite
+meteorite
+meteoroid
+microwave
+molecule
+pulsar
