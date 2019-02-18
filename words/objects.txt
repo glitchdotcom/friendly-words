@@ -412,7 +412,6 @@ chauffeur
 check
 cheek
 cheese
-cheesecake
 cheetah
 chef
 chemistry
@@ -522,7 +521,6 @@ cork
 cormorant
 corn
 cornet
-corona
 cosmonaut
 cost
 cotton
@@ -658,7 +656,6 @@ dollar
 dolomite
 dolphin
 domain
-dongle
 donkey
 donut
 doom
@@ -1884,7 +1881,6 @@ settee
 shad
 shade
 shadow
-shah
 shake
 shaker
 shallot
@@ -2090,7 +2086,6 @@ suede
 sugar
 suggestion
 suit
-sultan
 summer
 sun
 sundae
@@ -2133,7 +2128,8 @@ table
 tablecloth
 tabletop
 tachometer
-taco
+torta
+quesadilla
 tadpole
 tail
 tailor
