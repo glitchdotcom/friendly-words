@@ -316,6 +316,7 @@ butterfly
 button
 buzzard
 cabbage
+cabin
 cabinet
 cactus
 cafe
@@ -332,6 +333,7 @@ canid
 canidae
 cannon
 canoe
+canopy
 canvas
 cap
 cappelletti
@@ -678,10 +680,12 @@ dresser
 drifter
 drill
 drink
+drip
 drive
 driver
 drizzle
 drop
+droplet
 drug
 drum
 dry
@@ -691,6 +695,7 @@ duck
 duckling
 dugout
 duke
+dumpling
 dungeon
 dust
 eagle
@@ -1218,6 +1223,8 @@ lock
 locket
 locust
 lodestone
+lodge
+log
 longship
 look
 lord
@@ -1859,6 +1866,7 @@ search
 seashore
 season
 seat
+seatbelt
 second
 secretary
 secure
@@ -2013,12 +2021,14 @@ spider
 spike
 spinach
 spirit
+splash
 spleen
 sponge
 spoon
 spoonbill
 spot
 spring
+sprint
 sprite
 sprout
 spruce
@@ -2056,6 +2066,7 @@ stomach
 stone
 stool
 stop
+stoplight
 store
 stork
 storm

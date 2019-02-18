@@ -1056,7 +1056,7 @@ spiffy
 spiky
 spiral
 spiritual
-splash
+splashy
 splendid
 sponge
 spot
@@ -1247,6 +1247,7 @@ witty
 wobbly
 wonderful
 wood
+wooded
 wooden
 wool
 woolen
