@@ -181,6 +181,7 @@ chestnut
 chief
 childish
 childlike
+chill
 chip
 chipped
 chisel
@@ -998,6 +999,7 @@ shore
 short
 shrouded
 shy
+sideways
 silent
 silk
 silken

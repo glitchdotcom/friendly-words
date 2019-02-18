@@ -133,6 +133,7 @@ axolotl
 azimuth
 baboon
 backbone
+background
 backpack
 bacon
 badge
@@ -250,6 +251,7 @@ book
 bookcase
 booklet
 boot
+booth
 border
 botany
 bottle
@@ -660,6 +662,7 @@ donut
 doom
 door
 dormouse
+dosa
 double
 dove
 dragon
@@ -730,6 +733,7 @@ engineer
 english
 enquiry
 entrance
+entree
 environment
 epoch
 epoxy
@@ -1195,6 +1199,7 @@ limpet
 line
 linen
 link
+lint
 lion
 lip
 lipstick
@@ -1539,6 +1544,7 @@ peripheral
 pest
 pet
 petalite
+petroleum
 pharaoh
 pheasant
 philosophy
@@ -1591,6 +1597,7 @@ plough
 plow
 plywood
 pocket
+podium
 poet
 poinsettia
 point
@@ -1734,6 +1741,7 @@ relish
 reminder
 repair
 replace
+reply
 report
 reptile
 request
@@ -1967,6 +1975,7 @@ sock
 socks
 soda
 sodalite
+sodium
 sofa
 softball
 soil
@@ -2220,6 +2229,7 @@ trader
 traffic
 trail
 train
+trampoline
 transport
 trapezoid
 trawler
