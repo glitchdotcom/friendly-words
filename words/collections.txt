@@ -29,6 +29,7 @@ playlist
 potpourri
 selection
 set
+stack
 stockpile
 supply
 treasure

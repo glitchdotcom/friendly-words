@@ -1370,6 +1370,8 @@ nation
 nebula
 need
 needle
+neighbor
+neighborhood
 neon
 nephew
 nerve
@@ -1502,6 +1504,7 @@ pasta
 paste
 pastry
 patch
+path
 patient
 patio
 paw
@@ -1986,6 +1989,7 @@ spaghetti
 spandex
 spark
 sparrow
+spatula
 spear
 specialist
 spectacles
@@ -2367,6 +2371,7 @@ wish
 witch
 witness
 wizard
+wok
 wolf
 wolverine
 wombat
