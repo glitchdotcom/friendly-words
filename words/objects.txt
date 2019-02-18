@@ -1678,6 +1678,7 @@ quarter
 quartz
 quasar
 queen
+quesadilla
 question
 quicksand
 quiet
@@ -2113,8 +2114,6 @@ table
 tablecloth
 tabletop
 tachometer
-torta
-quesadilla
 tadpole
 tail
 tailor
@@ -2204,6 +2203,7 @@ toothpaste
 top
 topaz
 tornado
+torta
 tortellini
 tortoise
 tote

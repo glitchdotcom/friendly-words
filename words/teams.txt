@@ -13,6 +13,7 @@ gathering
 group
 league
 lineup
+order
 organization
 outfit
 pack
@@ -24,4 +25,3 @@ troop
 troupe
 trust
 unit
-order
