@@ -4,7 +4,6 @@ band
 batch
 bunch
 club
-cluster
 combination
 conglomerate
 coven
@@ -25,3 +24,4 @@ troop
 troupe
 trust
 unit
+order

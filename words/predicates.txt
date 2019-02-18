@@ -15,7 +15,6 @@ abundant
 accessible
 accidental
 accurate
-ace
 acoustic
 actually
 acute
@@ -96,7 +95,6 @@ blossom
 blue
 blush
 blushing
-bodacious
 bog
 boggy
 boiled
@@ -135,7 +133,6 @@ bubbly
 bumpy
 burly
 bush
-bushy
 bustling
 busy
 butter
@@ -233,7 +230,6 @@ cosmic
 cotton
 courageous
 cream
-creamy
 crimson
 crocus
 crystal
@@ -286,7 +282,6 @@ deserted
 destiny
 detailed
 determined
-dewy
 diamond
 different
 diligent
@@ -504,7 +499,6 @@ handsomely
 handy
 hanging
 happy
-hard
 harmonious
 harsh
 harvest
@@ -621,7 +615,6 @@ laser
 lava
 lavender
 lavish
-lazy
 lead
 leaf
 lean
@@ -740,7 +733,6 @@ night
 nimble
 nine
 ninth
-nippy
 noble
 noiseless
 noisy
@@ -894,7 +886,6 @@ rapid
 rare
 raspy
 rattle
-raw
 real
 rebel
 receptive
@@ -1224,7 +1215,6 @@ water
 watery
 wave
 wax
-waxed
 weak
 wealthy
 well
@@ -1255,7 +1245,6 @@ woozy
 workable
 worried
 wry
-yellow
 yielding
 young
 youthful

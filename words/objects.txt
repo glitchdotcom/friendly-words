@@ -17,7 +17,6 @@ addition
 address
 adjustment
 advantage
-afro
 aftermath
 afternoon
 aftershave
@@ -589,7 +588,6 @@ cyclone
 cylinder
 cymbal
 daffodil
-dagger
 dahlia
 daisy
 damselfly
@@ -936,7 +934,6 @@ gravity
 gray
 grease
 green
-grenade
 grey
 griffin
 grill
@@ -1079,7 +1076,6 @@ jackal
 jacket
 jade
 jaguar
-jail
 jam
 jar
 jasmine
@@ -1146,7 +1142,6 @@ lamprey
 lan
 lancer
 land
-landmine
 language
 lantern
 larch
@@ -1206,7 +1201,6 @@ lion
 lip
 lipstick
 liquid
-liquor
 list
 literature
 litter
@@ -1219,7 +1213,6 @@ lobster
 lock
 locket
 locust
-lodestone
 lodge
 log
 longship
@@ -1326,7 +1319,6 @@ minnow
 mint
 minute
 mirror
-missile
 mist
 mistake
 mitten
@@ -1378,7 +1370,6 @@ narwhal
 nation
 nebula
 need
-needle
 neighbor
 neighborhood
 neon
@@ -1637,15 +1628,12 @@ preface
 prepared
 pressure
 price
-priest
 primrose
 prince
 princess
 principal
 print
 printer
-prison
-probation
 process
 produce
 product
@@ -1653,7 +1641,6 @@ production
 professor
 profit
 promotion
-propane
 property
 prose
 prosecution
@@ -1728,7 +1715,6 @@ raver
 ravioli
 ray
 rayon
-razor
 reaction
 reading
 reaper
@@ -1756,7 +1742,6 @@ rest
 restaurant
 result
 revolve
-revolver
 reward
 rhinoceros
 rhythm
