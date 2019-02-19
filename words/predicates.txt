@@ -88,19 +88,15 @@ big
 billowy
 bird
 bitter
-blaze
-blazing
 bloom
 blossom
 blue
 blush
 blushing
-bog
 boggy
 boiled
 boiling
 bold
-bone
 bony
 boom
 booming
@@ -855,7 +851,6 @@ protective
 proud
 psychedelic
 puddle
-puffed
 puffy
 pumped
 purple
@@ -937,7 +932,6 @@ rune
 rural
 rust
 rustic
-rusty
 saber
 sable
 safe
@@ -1021,7 +1015,6 @@ snapdragon
 sneaky
 snow
 soft
-soggy
 solar
 solid
 solstice
@@ -1117,7 +1110,6 @@ tangible
 tangy
 tar
 tarry
-tart
 tartan
 tasteful
 tasty
@@ -1143,7 +1135,6 @@ tide
 tidy
 time
 tin
-tinny
 tiny
 titanium
 toothsome

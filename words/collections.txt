@@ -24,7 +24,6 @@ melange
 menu
 mishmash
 mix
-pile
 playlist
 potpourri
 selection
