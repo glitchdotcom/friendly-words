@@ -487,7 +487,6 @@ collar
 collard
 college
 collision
-colon
 colony
 color
 colt
