@@ -1572,7 +1572,6 @@ planarian
 plane
 planet
 plant
-plantation
 plaster
 plastic
 plate
