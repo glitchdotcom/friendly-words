@@ -509,7 +509,6 @@ helix
 helpful
 hexagonal
 hickory
-high
 highfalutin
 hilarious
 hill
