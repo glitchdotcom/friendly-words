@@ -494,6 +494,7 @@ handsome
 handsomely
 handy
 happy
+harmless
 harmonious
 harsh
 harvest
@@ -509,10 +510,10 @@ helix
 helpful
 hexagonal
 hickory
-high
 highfalutin
 hilarious
 hill
+hip
 hissing
 historical
 holistic
@@ -528,6 +529,8 @@ horse
 hospitable
 hot
 hulking
+humane
+humble
 humdrum
 humorous
 hungry
