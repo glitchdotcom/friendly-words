@@ -344,6 +344,7 @@ exuberant
 exultant
 fabulous
 faceted
+factual
 faint
 fair
 faithful
@@ -397,6 +398,7 @@ fog
 foggy
 foil
 foregoing
+foremost
 forest
 forested
 fork
@@ -406,6 +408,7 @@ fossil
 foul
 four
 fourth
+fragrant
 freckle
 free
 freezing
