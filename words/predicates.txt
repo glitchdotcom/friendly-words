@@ -494,6 +494,7 @@ handsome
 handsomely
 handy
 happy
+harmless
 harmonious
 harsh
 harvest
@@ -514,6 +515,7 @@ hilarious
 hill
 hissing
 historical
+hip
 holistic
 hollow
 holly
@@ -528,6 +530,8 @@ hospitable
 hot
 hulking
 humdrum
+humane
+humble
 humorous
 hungry
 hurricane
