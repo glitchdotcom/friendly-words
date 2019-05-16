@@ -363,7 +363,6 @@ fate
 fearless
 feather
 fern
-fertile
 festive
 few
 field
