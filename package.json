@@ -17,9 +17,6 @@
     "lodash.samplesize": "^4.2.0",
     "ava": "^0.25.0"
   },
-  "engines": {
-    "node": "10.x"
-  },
   "repository": {
     "url": "https://github.com/FogCreek/friendly-words"
   },
