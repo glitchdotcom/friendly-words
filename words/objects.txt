@@ -487,7 +487,6 @@ collar
 collard
 college
 collision
-colon
 colony
 color
 colt
@@ -1147,12 +1146,12 @@ larch
 lark
 larkspur
 lasagna
-lasher
 latency
 lathe
 laugh
 launch
 laundry
+latrine
 lavender
 law
 lawyer
@@ -1573,7 +1572,6 @@ planarian
 plane
 planet
 plant
-plantation
 plaster
 plastic
 plate

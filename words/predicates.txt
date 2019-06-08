@@ -344,6 +344,7 @@ exuberant
 exultant
 fabulous
 faceted
+factual
 faint
 fair
 faithful
@@ -363,7 +364,6 @@ fate
 fearless
 feather
 fern
-fertile
 festive
 few
 field
@@ -398,6 +398,7 @@ fog
 foggy
 foil
 foregoing
+foremost
 forest
 forested
 fork
@@ -407,6 +408,7 @@ fossil
 foul
 four
 fourth
+fragrant
 freckle
 free
 freezing
@@ -493,8 +495,8 @@ halved
 handsome
 handsomely
 handy
-hanging
 happy
+harmless
 harmonious
 harsh
 harvest
@@ -510,10 +512,10 @@ helix
 helpful
 hexagonal
 hickory
-high
 highfalutin
 hilarious
 hill
+hip
 hissing
 historical
 holistic
@@ -529,6 +531,8 @@ horse
 hospitable
 hot
 hulking
+humane
+humble
 humdrum
 humorous
 hungry
