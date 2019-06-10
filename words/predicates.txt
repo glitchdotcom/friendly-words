@@ -152,6 +152,9 @@ caring
 carnation
 carnelian
 cat
+caterwauling
+catkin
+catnip
 cautious
 cedar
 celestial
@@ -363,6 +366,7 @@ fast
 fate
 fearless
 feather
+feline
 fern
 festive
 few
@@ -416,6 +420,7 @@ frequent
 fresh
 friendly
 frill
+frisky
 fringe
 frost
 frosted
@@ -669,6 +674,7 @@ mangrove
 maple
 marble
 marked
+marmalade
 marred
 married
 marsh
@@ -684,6 +690,7 @@ mellow
 melodic
 melodious
 melted
+meowing
 merciful
 mercurial
 mercury
@@ -691,6 +698,7 @@ mesquite
 messy
 metal
 meteor
+mewing
 mica
 mighty
 military
@@ -836,6 +844,7 @@ pond
 pool
 possible
 potent
+pouncing
 power
 powerful
 prairie
@@ -857,6 +866,8 @@ puddle
 puffy
 pumped
 purple
+purrfect
+purring
 pushy
 puzzle
 puzzled
@@ -1144,6 +1155,7 @@ toothsome
 topaz
 torch
 torpid
+tortoiseshell
 tough
 tourmaline
 towering
