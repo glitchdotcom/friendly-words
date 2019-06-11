@@ -481,7 +481,6 @@ cod
 coffee
 coil
 coin
-coke
 cold
 collar
 collard
@@ -515,6 +514,7 @@ copper
 coral
 cord
 coriander
+cornucopia
 cork
 cormorant
 corn
