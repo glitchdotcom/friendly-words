@@ -514,11 +514,11 @@ copper
 coral
 cord
 coriander
-cornucopia
 cork
 cormorant
 corn
 cornet
+cornucopia
 cosmonaut
 cost
 cotton
@@ -1148,10 +1148,10 @@ larkspur
 lasagna
 latency
 lathe
+latrine
 laugh
 launch
 laundry
-latrine
 lavender
 law
 lawyer
