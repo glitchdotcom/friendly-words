@@ -481,13 +481,11 @@ cod
 coffee
 coil
 coin
-coke
 cold
 collar
 collard
 college
 collision
-colon
 colony
 color
 colt
@@ -516,6 +514,7 @@ copper
 coral
 cord
 coriander
+cornucopia
 cork
 cormorant
 corn
@@ -705,7 +704,6 @@ eater
 echidna
 eclipse
 edge
-edger
 editor
 editorial
 education
@@ -1148,13 +1146,12 @@ larch
 lark
 larkspur
 lasagna
-lasher
 latency
-latex
 lathe
 laugh
 launch
 laundry
+latrine
 lavender
 law
 lawyer
@@ -1575,7 +1572,6 @@ planarian
 plane
 planet
 plant
-plantation
 plaster
 plastic
 plate
