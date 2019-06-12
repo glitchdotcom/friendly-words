@@ -514,11 +514,11 @@ copper
 coral
 cord
 coriander
-cornucopia
 cork
 cormorant
 corn
 cornet
+cornucopia
 cosmonaut
 cost
 cotton
@@ -1151,7 +1151,6 @@ lathe
 laugh
 launch
 laundry
-latrine
 lavender
 law
 lawyer
@@ -2406,4 +2405,3 @@ zipper
 zircon
 zone
 zoo
-zoology
