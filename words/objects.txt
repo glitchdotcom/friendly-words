@@ -1148,7 +1148,6 @@ larkspur
 lasagna
 latency
 lathe
-latrine
 laugh
 launch
 laundry
@@ -2406,4 +2405,3 @@ zipper
 zircon
 zone
 zoo
-zoology

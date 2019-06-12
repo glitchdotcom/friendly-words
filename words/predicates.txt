@@ -421,7 +421,6 @@ fresh
 friendly
 frill
 fringe
-frisky
 frost
 frosted
 full
@@ -1263,4 +1262,3 @@ zesty
 zinc
 zippy
 zircon
-zonked
