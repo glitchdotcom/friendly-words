@@ -1,0 +1,5 @@
+node_modules
+npm-debug.log
+.glitch_track_file_changes
+.glitch_assets
+.git

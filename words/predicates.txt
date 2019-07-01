@@ -152,6 +152,9 @@ caring
 carnation
 carnelian
 cat
+caterwauling
+catkin
+catnip
 cautious
 cedar
 celestial
@@ -344,6 +347,7 @@ exuberant
 exultant
 fabulous
 faceted
+factual
 faint
 fair
 faithful
@@ -362,8 +366,8 @@ fast
 fate
 fearless
 feather
+feline
 fern
-fertile
 festive
 few
 field
@@ -398,6 +402,7 @@ fog
 foggy
 foil
 foregoing
+foremost
 forest
 forested
 fork
@@ -407,6 +412,7 @@ fossil
 foul
 four
 fourth
+fragrant
 freckle
 free
 freezing
@@ -493,8 +499,8 @@ halved
 handsome
 handsomely
 handy
-hanging
 happy
+harmless
 harmonious
 harsh
 harvest
@@ -510,10 +516,10 @@ helix
 helpful
 hexagonal
 hickory
-high
 highfalutin
 hilarious
 hill
+hip
 hissing
 historical
 holistic
@@ -529,6 +535,8 @@ horse
 hospitable
 hot
 hulking
+humane
+humble
 humdrum
 humorous
 hungry
@@ -665,6 +673,7 @@ mangrove
 maple
 marble
 marked
+marmalade
 marred
 married
 marsh
@@ -680,6 +689,7 @@ mellow
 melodic
 melodious
 melted
+meowing
 merciful
 mercurial
 mercury
@@ -687,6 +697,7 @@ mesquite
 messy
 metal
 meteor
+mewing
 mica
 mighty
 military
@@ -699,7 +710,6 @@ misty
 mixed
 modern
 momentous
-moor
 moored
 morning
 motley
@@ -833,6 +843,7 @@ pond
 pool
 possible
 potent
+pouncing
 power
 powerful
 prairie
@@ -854,6 +865,8 @@ puddle
 puffy
 pumped
 purple
+purrfect
+purring
 pushy
 puzzle
 puzzled
@@ -1141,6 +1154,7 @@ toothsome
 topaz
 torch
 torpid
+tortoiseshell
 tough
 tourmaline
 towering
@@ -1248,4 +1262,3 @@ zesty
 zinc
 zippy
 zircon
-zonked

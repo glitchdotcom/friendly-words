@@ -1,6 +1,6 @@
 {
   "name": "friendly-words",
-  "version": "1.1.2",
+  "version": "1.1.7",
   "description": "The Glitch word list, packaged into an NPM module for easy use.",
   "author": "Glitch <help@glitch.com>",
   "main": "index.js",
@@ -16,9 +16,6 @@
     "express": "^4.16.3",
     "lodash.samplesize": "^4.2.0",
     "ava": "^0.25.0"
-  },
-  "engines": {
-    "node": "10.x"
   },
   "repository": {
     "url": "https://github.com/FogCreek/friendly-words"

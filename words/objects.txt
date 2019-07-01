@@ -481,13 +481,11 @@ cod
 coffee
 coil
 coin
-coke
 cold
 collar
 collard
 college
 collision
-colon
 colony
 color
 colt
@@ -520,6 +518,7 @@ cork
 cormorant
 corn
 cornet
+cornucopia
 cosmonaut
 cost
 cotton
@@ -705,7 +704,6 @@ eater
 echidna
 eclipse
 edge
-edger
 editor
 editorial
 education
@@ -1148,9 +1146,7 @@ larch
 lark
 larkspur
 lasagna
-lasher
 latency
-latex
 lathe
 laugh
 launch
@@ -1575,7 +1571,6 @@ planarian
 plane
 planet
 plant
-plantation
 plaster
 plastic
 plate
@@ -2410,4 +2405,3 @@ zipper
 zircon
 zone
 zoo
-zoology

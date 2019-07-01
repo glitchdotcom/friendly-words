@@ -1,2 +1,0 @@
-# This file instructs glitch to update the editor when the source files are changed by the app.
-# (this allows build.js to run and have its changes reflected immediately in the editor.)
