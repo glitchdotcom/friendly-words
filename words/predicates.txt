@@ -338,6 +338,7 @@ evanescent
 even
 evening
 excellent
+excessive
 excited
 exciting
 exclusive
@@ -465,6 +466,7 @@ glorious
 glory
 glossy
 glow
+glowing
 gold
 golden
 good
@@ -1017,6 +1019,7 @@ slash
 sleepy
 sleet
 slime
+slinky
 slow
 sly
 small
@@ -1247,6 +1250,7 @@ wooded
 wooden
 wool
 woolen
+woolly
 woozy
 workable
 worried
@@ -1263,3 +1267,10 @@ zesty
 zinc
 zippy
 zircon
+ionian
+dorian
+phrygian
+lydian
+mixolydian
+aeolian
+locrian
