@@ -188,6 +188,7 @@ chrome
 circular
 citrine
 clammy
+classic
 classy
 clean
 clear
@@ -1207,6 +1208,7 @@ versed
 victorious
 vigorous
 vine
+vintage
 violet
 viridian
 vivacious
@@ -1274,3 +1276,4 @@ lydian
 mixolydian
 aeolian
 locrian
+quintessential
