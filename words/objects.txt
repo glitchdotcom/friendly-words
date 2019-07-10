@@ -231,6 +231,7 @@ blanket
 blender
 blinker
 blizzard
+blob
 block
 bloom
 blossom
@@ -486,6 +487,7 @@ collar
 collard
 college
 collision
+colossus
 colony
 color
 colt
@@ -875,6 +877,7 @@ garage
 garden
 gargoyle
 garlic
+garment
 garnet
 gas
 gasoline
@@ -2027,6 +2030,7 @@ station
 statistic
 stealer
 steam
+steed
 steel
 stem
 step
