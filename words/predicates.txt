@@ -1519,3 +1519,7 @@ wirehaired
 marble
 marbled
 cheddar
+petite
+aged
+peppered
+sage
