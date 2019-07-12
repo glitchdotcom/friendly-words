@@ -1277,3 +1277,5 @@ mixolydian
 aeolian
 locrian
 quintessential
+almondine
+florentine
