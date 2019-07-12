@@ -33,3 +33,10 @@ stockpile
 supply
 treasure
 variety
+structures
+organization
+collective
+everything
+group
+contributions
+everybody
