@@ -2558,7 +2558,10 @@ artichoke
 thistle
 broom
 buckthornpepperberry
-
+mum
+myrtle
+enthusiasm
+eucalyptus
 amaryllis
 anemone
 snapdragon
@@ -2603,6 +2606,9 @@ fireplant
 flannel
 flax
 floss
+fernleaf
+feverfew
+foxtail
 fosythia
 foxglove
 freesia
@@ -2613,9 +2619,11 @@ gardenia
 geranium
 gaura
 gerbera
+ginger
 gladiolus
 goldenrod
 hyacinth
+helicona
 heather
 sneezeweed
 helenium
@@ -2645,6 +2653,8 @@ jasmine
 jonquil
 heath
 lantana
+larkspur
+papyrus
 verbena
 mallow
 lavender
@@ -2678,6 +2688,11 @@ pincushion
 plume
 poinsettia
 polyanthus
+philodendron
+rattlesnake
+safflower
+stock
+strawflower
 poppy
 anemone
 grandiflora
@@ -2722,6 +2737,9 @@ windflower
 winterberry
 wishbone
 wisteria
+waxflower
+wolfsbane
+mango
 yellowhorn
 strawflower
 yarrow
