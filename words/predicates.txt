@@ -1516,3 +1516,6 @@ polydactyl
 longhaired
 shorthaired
 wirehaired
+marble
+marbled
+cheddar

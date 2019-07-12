@@ -37,3 +37,4 @@ organization
 collective
 everything
 contributions
+bouquet
