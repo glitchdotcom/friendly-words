@@ -1279,3 +1279,10 @@ locrian
 quintessential
 almondine
 florentine
+boatneck
+mini
+midi
+curious
+aerial
+artistic
+balanced
