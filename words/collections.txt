@@ -3,12 +3,16 @@ array
 assembly
 assortment
 batch
+bouquet
 bricolage
 clump
 collection
+collective
 compilation
 constellation
+contribution
 digest
+everything
 gathering
 gumbo
 heap
@@ -24,6 +28,7 @@ melange
 menu
 mishmash
 mix
+organization
 playlist
 potpourri
 selection
@@ -33,8 +38,3 @@ stockpile
 supply
 treasure
 variety
-organization
-collective
-everything
-contributions
-bouquet
