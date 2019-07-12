@@ -1347,6 +1347,14 @@ goldenrod
 grape
 showy
 heathered
+tricolor
+violet
+aluminum
+alpine
+bronze
+brass
+brazen
+
 heliotrope
 icy
 busy
@@ -1355,6 +1363,10 @@ lavender
 lilac
 painted
 passionate
+quaker
+scented
+verbena
+periwinkle
 held
 confusion
 immediate
