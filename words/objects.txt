@@ -2464,3 +2464,17 @@ handspring
 walkover
 kip
 beam
+element
+flyaway
+grip
+handstand
+headstand
+leotard
+popa
+pike
+salto
+salute
+split
+trampoline
+tumble
+tuck

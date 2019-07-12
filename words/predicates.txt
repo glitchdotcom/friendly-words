@@ -1286,3 +1286,6 @@ curious
 aerial
 artistic
 balanced
+dynamic
+elemental
+elite
