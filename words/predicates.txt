@@ -161,9 +161,9 @@ butter
 buttercup
 buttered
 butternut
+buttery
 button
 buttoned
-buttery
 cactus
 cake
 calico
@@ -204,8 +204,8 @@ chatter
 checker
 checkered
 cheddar
-cheerful
 cheeky
+cheerful
 chemical
 cherry
 chestnut
@@ -758,8 +758,8 @@ maddening
 magenta
 magic
 magical
-magnificent
 magnetic
+magnificent
 mahogany
 maize
 majestic

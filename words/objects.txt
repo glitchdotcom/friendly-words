@@ -1416,6 +1416,7 @@ jersey
 jester
 jet
 jewel
+jingle
 jitterbug
 jobaria
 jodhpur
@@ -2120,6 +2121,7 @@ product
 production
 professor
 profit
+promise
 promotion
 property
 prose
@@ -3074,5 +3076,3 @@ zone
 zoo
 zucchini
 zydeco
-promise
-jingle
