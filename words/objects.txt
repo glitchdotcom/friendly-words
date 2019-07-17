@@ -924,6 +924,7 @@ ellipse
 elm
 emery
 emmental
+emoji
 emperor
 empress
 emu
@@ -1148,6 +1149,7 @@ gerbera
 gerbil
 germanium
 ghost
+ghoul
 giant
 gibbon
 giganotosaurus
@@ -2870,6 +2872,7 @@ turtle
 tv
 twig
 twilight
+twill
 twine
 twist
 twister
@@ -3056,6 +3059,7 @@ yogurt
 yoke
 yttrium
 yumberry
+yuzu
 zebra
 zebu
 zenith

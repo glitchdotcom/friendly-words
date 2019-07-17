@@ -38,3 +38,12 @@ stockpile
 supply
 treasure
 variety
+herd
+nest
+supply
+shrewdness
+stash
+clutch
+pack
+parcel
+nest

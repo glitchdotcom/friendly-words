@@ -91,6 +91,7 @@ band
 basalt
 battle
 bead
+beaded
 beautiful
 bedecked
 befitting
@@ -162,6 +163,7 @@ buttered
 butternut
 button
 buttoned
+buttery
 cactus
 cake
 calico
@@ -669,6 +671,7 @@ jealous
 jelly
 jet
 jewel
+jeweled
 jolly
 joyous
 judicious
@@ -1218,6 +1221,7 @@ star
 statuesque
 steadfast
 steady
+stealth
 steel
 steep
 stellar
@@ -1376,6 +1380,7 @@ viridian
 vivacious
 vivid
 volcano
+voltaic
 voracious
 waiting
 wakeful
