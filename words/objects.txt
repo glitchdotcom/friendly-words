@@ -3074,3 +3074,5 @@ zone
 zoo
 zucchini
 zydeco
+promise
+jingle

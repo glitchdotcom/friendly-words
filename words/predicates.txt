@@ -205,6 +205,7 @@ checker
 checkered
 cheddar
 cheerful
+cheeky
 chemical
 cherry
 chestnut
@@ -758,6 +759,7 @@ magenta
 magic
 magical
 magnificent
+magnetic
 mahogany
 maize
 majestic
@@ -1227,6 +1229,7 @@ steep
 stellar
 sticky
 stingy
+stirring
 stitch
 stone
 storm
@@ -1300,6 +1303,7 @@ thorn
 thoughtful
 thread
 three
+thrilling
 thunder
 thundering
 tidal
