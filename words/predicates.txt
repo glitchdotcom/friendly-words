@@ -345,7 +345,6 @@ dour
 dramatic
 dull
 dune
-dusky
 dust
 dusty
 dynamic
@@ -899,7 +898,6 @@ palm
 panoramic
 paper
 parallel
-passionate
 past
 pastoral
 patch
@@ -999,7 +997,6 @@ puzzled
 puzzling
 pyrite
 quaint
-quaker
 quark
 quartz
 quasar
@@ -1168,7 +1165,6 @@ sleepy
 sleet
 slender
 slime
-slinky
 slow
 sly
 small

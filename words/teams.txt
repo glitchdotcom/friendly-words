@@ -8,7 +8,6 @@ batch
 bed
 bevy
 board
-body
 brood
 building
 bunch
@@ -60,13 +59,11 @@ flock
 flush
 gaggle
 galaxy
-gam
 game
 gathering
 gobble
 group
 gulp
-hang
 herd
 hive
 intrigue
@@ -123,7 +120,6 @@ suit
 swarm
 team
 thunder
-tittering
 tower
 troop
 troupe
