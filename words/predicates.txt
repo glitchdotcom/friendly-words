@@ -230,6 +230,7 @@ clean
 clear
 clever
 cliff
+climbing
 closed
 cloud
 cloudy
@@ -269,11 +270,13 @@ cosmic
 cotton
 cottony
 courageous
+crawling
 cream
 creative
 crimson
 crocus
 crystal
+crystalline
 cubic
 cuboid
 cuddly
@@ -955,6 +958,7 @@ pointy
 poised
 polar
 polarized
+polished
 polite
 political
 pollen
@@ -1132,7 +1136,9 @@ sheer
 shell
 shelled
 shimmer
+shimmering
 shine
+shining
 shiny
 shocking
 shore
@@ -1176,6 +1182,7 @@ snapdragon
 sneaky
 snow
 snowy
+soapy
 soft
 solar
 solid
@@ -1191,6 +1198,7 @@ spangle
 spangled
 spark
 sparkling
+sparkly
 special
 speckle
 speckled
@@ -1250,6 +1258,7 @@ successful
 succinct
 succulent
 sudden
+sudsy
 sugar
 sugared
 sugary
@@ -1285,6 +1294,7 @@ tarry
 tartan
 tasteful
 tasty
+tattered
 teal
 telling
 temporal
@@ -1327,6 +1337,7 @@ tranquil
 translucent
 transparent
 trapezoidal
+traveling
 treasure
 tree
 tremendous
@@ -1336,6 +1347,8 @@ tricolor
 trite
 tropical
 troubled
+trusted
+trusting
 truth
 truthful
 tulip
@@ -1445,18 +1458,3 @@ zigzag
 zinc
 zippy
 zircon
-soapy
-sudsy
-clean
-messy
-tattered
-polished
-gleaming
-sparkly
-crystalline
-cubic
-hexagonal
-triangular
-square
-circular
-octagonal
