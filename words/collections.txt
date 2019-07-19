@@ -8,7 +8,6 @@ assembly
 assortment
 bank
 batch
-belt
 bouquet
 bricolage
 bushel
@@ -21,7 +20,6 @@ conglomeration
 constellation
 contribution
 cumulation
-deck
 digest
 everything
 flight
@@ -63,7 +61,6 @@ set
 shrewdness
 spicilege
 stack
-stash
 stockpile
 store
 supply

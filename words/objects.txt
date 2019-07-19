@@ -183,7 +183,6 @@ axolotl
 azimuth
 babcat
 baboon
-babybel
 backbone
 background
 backpack
@@ -388,7 +387,8 @@ bubble
 bubbler
 buckaroo
 bucket
-buckthornpepperberry
+buckthorn
+pepperberry
 budget
 buffalo
 buffer
@@ -1071,7 +1071,7 @@ fork
 form
 fortnight
 fossa
-fosythia
+forsythia
 foundation
 fountain
 fowl
@@ -1775,7 +1775,6 @@ myrtle
 myth
 nail
 name
-nance
 nannyberry
 nape
 napkin
@@ -2018,7 +2017,6 @@ pigment
 pike
 pillow
 pilot
-pimpkin
 pin
 pincushion
 pine
@@ -2078,7 +2076,6 @@ pomegranate
 pomelo
 pond
 pony
-popa
 popcorn
 poppy
 poppyseed
@@ -2418,7 +2415,6 @@ shamrock
 shape
 share
 shark
-shasta
 shawl
 shear
 sheep
@@ -2975,7 +2971,7 @@ watchmaker
 water
 watercress
 waterfall
-waterliliy
+waterlily
 wave
 wavelength
 wax
