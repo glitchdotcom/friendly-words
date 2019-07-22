@@ -46,7 +46,6 @@ culture
 dazzle
 descent
 doctrine
-dole
 drift
 drove
 exaltation
@@ -113,7 +112,6 @@ shiver
 shrewdness
 sleuth
 sloth
-smack
 squad
 staff
 suit
