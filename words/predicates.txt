@@ -1380,6 +1380,7 @@ vaulted
 veil
 veiled
 verbena
+verbose
 verdant
 versed
 victorious
