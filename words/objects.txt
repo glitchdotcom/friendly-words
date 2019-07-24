@@ -388,7 +388,7 @@ bubbler
 buckaroo
 bucket
 buckthorn
-pepperberry
+buckthornpepperberry
 budget
 buffalo
 buffer
@@ -1069,9 +1069,9 @@ forger
 forgery
 fork
 form
+forsythia
 fortnight
 fossa
-forsythia
 foundation
 fountain
 fowl
@@ -1981,6 +1981,7 @@ pentagon
 peony
 people
 pepper
+pepperberry
 perch
 perfume
 peridot
@@ -2662,7 +2663,6 @@ sunstone
 supermarket
 supernova
 supply
-support
 surf
 surfboard
 surgeon
