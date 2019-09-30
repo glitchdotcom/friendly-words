@@ -380,8 +380,8 @@ brook
 broom
 brother
 brow
-browser
 brownie
+browser
 brush
 bubble
 bubbler
@@ -1244,6 +1244,7 @@ hamburger
 hammer
 hamster
 handball
+handbell
 handle
 handsaw
 handspring
@@ -1745,6 +1746,7 @@ morning
 morocco
 mortarboard
 mosquito
+moss
 moth
 motion
 motorcycle
@@ -2064,8 +2066,6 @@ poet
 poinsettia
 point
 poison
-police
-policeman
 polish
 politician
 polka
@@ -2347,6 +2347,7 @@ saw
 sawfish
 saxophone
 scabiosa
+scaffold
 scale
 scallion
 scallop
@@ -2882,7 +2883,6 @@ uncle
 unicorn
 universe
 uranium
-uranus
 ursinia
 utahceratops
 utahraptor
