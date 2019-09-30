@@ -1,6 +1,6 @@
 {
   "name": "friendly-words",
-  "version": "1.1.9",
+  "version": "1.1.10",
   "description": "The Glitch word list, packaged into an NPM module for easy use.",
   "author": "Glitch <help@glitch.com>",
   "main": "index.js",

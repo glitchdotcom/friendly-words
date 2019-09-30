@@ -456,6 +456,7 @@ flower
 flowery
 fluff
 fluffy
+fluorescent
 fluoridated
 fluttering
 flying
@@ -869,7 +870,6 @@ oceanic
 octagonal
 odd
 oil
-oily
 olive
 olivine
 omniscient
