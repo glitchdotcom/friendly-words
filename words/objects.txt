@@ -193,7 +193,6 @@ badger
 bag
 bagel
 bagpipe
-bail
 bait
 baker
 bakery
@@ -381,6 +380,7 @@ brook
 broom
 brother
 brow
+browser
 brownie
 brush
 bubble
