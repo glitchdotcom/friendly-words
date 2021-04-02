@@ -1106,7 +1106,6 @@ fuel
 fukuiraptor
 fur
 furniture
-fuschia
 galaxy
 galette
 galleon
