@@ -1,5 +1,4 @@
 aback
-abaft
 abalone
 abiding
 ablaze
@@ -48,7 +47,6 @@ almondine
 alpine
 aluminum
 amazing
-amber
 ambiguous
 ambitious
 amenable
@@ -99,7 +97,6 @@ bejewled
 believed
 beneficial
 berry
-beryl
 best
 better
 bevel
@@ -114,12 +111,10 @@ blue
 blush
 blushing
 boatneck
-boggy
 boiled
 boiling
 bold
 bolder
-bony
 boom
 booming
 bottlenose
@@ -153,8 +148,6 @@ bubble
 bubbly
 bumpy
 burly
-burnt
-bush
 bustling
 busy
 butter
@@ -269,7 +262,6 @@ cotton
 cottony
 courageous
 crawling
-cream
 creative
 crimson
 crocus
@@ -281,12 +273,9 @@ cuddly
 cultured
 cumbersome
 curious
-curly
 curse
 curved
-curvy
 cut
-cute
 cyan
 cyber
 cyclic
@@ -294,7 +283,6 @@ cypress
 daffodil
 daffy
 daily
-daisy
 dandelion
 dandy
 dapper
@@ -354,7 +342,6 @@ earthy
 east
 eastern
 easy
-ebony
 economic
 educated
 efficacious
@@ -367,7 +354,6 @@ elderly
 electric
 elegant
 elemental
-elfin
 elite
 ember
 emerald
@@ -437,7 +423,6 @@ fir
 fire
 first
 fish
-fishy
 five
 fixed
 flame
@@ -490,15 +475,11 @@ frosted
 fuchsia
 full
 functional
-funky
 funny
-furry
 furtive
 fuschia
 future
 futuristic
-fuzzy
-gabby
 gainful
 galvanized
 gamy
@@ -522,7 +503,6 @@ glamorous
 glass
 glaze
 gleaming
-glen
 glib
 glimmer
 glistening
@@ -577,7 +557,6 @@ harmless
 harmonious
 harsh
 harvest
-hazel
 heady
 healthy
 heartbreaking
@@ -599,7 +578,6 @@ hissing
 historical
 holistic
 hollow
-holly
 holy
 honey
 honeysuckle
@@ -617,7 +595,6 @@ humorous
 hungry
 hurricane
 hushed
-husky
 hyper
 hypnotic
 iced
@@ -663,9 +640,7 @@ iris
 iron
 irradiated
 island
-ivory
 ivy
-jade
 jagged
 jasper
 jazzy
@@ -677,7 +652,6 @@ jeweled
 jolly
 joyous
 judicious
-juicy
 jumbled
 jumpy
 jungle
@@ -700,7 +674,6 @@ lacy
 lake
 languid
 lapis
-large
 laser
 lateral
 lava
@@ -722,7 +695,6 @@ lightning
 like
 likeable
 lilac
-lily
 lime
 linen
 literate
@@ -747,7 +719,6 @@ lucky
 ludicrous
 lumbar
 luminous
-lumpy
 lunar
 lush
 luxuriant
@@ -789,14 +760,12 @@ meadow
 mellow
 melodic
 melodious
-melon
 melted
 meowing
 merciful
 mercurial
 mercury
 mesquite
-messy
 metal
 meteor
 mewing
@@ -827,7 +796,6 @@ muddy
 mulberry
 mysterious
 narrow
-nasal
 natural
 navy
 near
@@ -848,7 +816,6 @@ nine
 ninth
 noble
 noiseless
-noisy
 nonchalant
 nonstop
 noon
@@ -948,7 +915,6 @@ pleasant
 plucky
 plum
 plume
-plump
 pointed
 pointy
 poised
@@ -986,7 +952,6 @@ proud
 proximal
 psychedelic
 puddle
-puffy
 pumped
 purple
 purrfect
@@ -1065,15 +1030,11 @@ rocky
 rogue
 romantic
 roomy
-root
 rose
 rough
 round
 rounded
-rowan
 royal
-ruby
-ruddy
 rumbling
 rune
 rural
@@ -1124,7 +1085,6 @@ shade
 shaded
 shadow
 shadowed
-shard
 shared
 sharp
 sheer
@@ -1405,7 +1365,6 @@ water
 watery
 wave
 wax
-weak
 wealthy
 well
 west
@@ -1419,7 +1378,6 @@ wide
 wiggly
 wild
 wind
-windy
 winter
 wirehaired
 wiry
@@ -1434,7 +1392,6 @@ wooden
 wool
 woolen
 woolly
-woozy
 workable
 working
 worried
@@ -1443,7 +1400,6 @@ yellow
 yielding
 young
 youthful
-yummy
 zany
 zealous
 zenith
