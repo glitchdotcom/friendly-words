@@ -11,6 +11,7 @@ abrupt
 absorbed
 absorbing
 abstracted
+abundance
 abundant
 abyssinian
 accessible
@@ -45,6 +46,7 @@ alkaline
 alluring
 almond
 almondine
+aloud
 alpine
 aluminum
 amazing
@@ -97,6 +99,7 @@ bedecked
 befitting
 bejewled
 believed
+bemused
 beneficial
 berry
 beryl
@@ -108,6 +111,7 @@ billowy
 bird
 bitter
 bittersweet
+blend
 bloom
 blossom
 blue
@@ -122,6 +126,7 @@ bolder
 bony
 boom
 booming
+bottled
 bottlenose
 boulder
 bouncy
@@ -164,10 +169,12 @@ butternut
 buttery
 button
 buttoned
+bygone
 cactus
 cake
 calico
 calm
+camp
 canary
 candied
 candle
@@ -176,12 +183,14 @@ canyon
 capable
 capricious
 caramel
+carefree
 carbonated
 careful
 caring
 carnation
 carnelian
 carpal
+casual
 cat
 caterwauling
 catkin
@@ -222,6 +231,7 @@ chrome
 circular
 citrine
 clammy
+clarity
 classic
 classy
 clean
@@ -262,8 +272,10 @@ cool
 cooperative
 coordinated
 copper
+copy
 coral
 cord
+corner
 cosmic
 cotton
 cottony
@@ -278,6 +290,7 @@ crystalline
 cubic
 cuboid
 cuddly
+cultivate
 cultured
 cumbersome
 curious
@@ -302,6 +315,7 @@ dark
 darkened
 dashing
 dawn
+dazed
 dazzling
 deadpan
 dear
@@ -309,6 +323,7 @@ debonair
 deciduous
 decisive
 decorous
+dedicated
 deep
 deeply
 defiant
@@ -388,6 +403,7 @@ equal
 equatorial
 equinox
 erratic
+estimated
 ethereal
 evanescent
 even
@@ -452,6 +468,7 @@ flicker
 flint
 florentine
 flossy
+flourish
 flower
 flowery
 fluff
@@ -572,6 +589,7 @@ handsome
 handsomely
 handy
 happy
+hardly
 harmless
 harmonious
 harsh
@@ -591,6 +609,7 @@ helpful
 hexagonal
 hickory
 highfalutin
+highly
 hilarious
 hill
 hip
@@ -636,6 +655,7 @@ incongruous
 incredible
 indecisive
 indigo
+indispensable
 industrious
 inexpensive
 infrequent
@@ -725,6 +745,7 @@ lily
 lime
 linen
 literate
+lithe
 little
 lively
 living
@@ -785,6 +806,7 @@ materialistic
 mature
 maze
 meadow
+medieval
 mellow
 melodic
 melodious
@@ -803,6 +825,8 @@ mica
 midi
 midnight
 mighty
+mild
+mildly
 military
 mini
 miniature
@@ -814,6 +838,7 @@ misty
 mixed
 mixolydian
 modern
+modest
 momentous
 moored
 morning
@@ -822,8 +847,10 @@ mountain
 mountainous
 mousy
 mud
+muddled
 muddy
 mulberry
+mutual
 mysterious
 narrow
 nasal
@@ -879,6 +906,7 @@ open
 opposite
 orange
 orchid
+orderly
 ordinary
 organic
 organized
@@ -948,6 +976,7 @@ plucky
 plum
 plume
 plump
+plural
 pointed
 pointy
 poised
@@ -961,6 +990,7 @@ polydactyl
 polyester
 pond
 pool
+popular
 positive
 possible
 potent
@@ -1022,6 +1052,7 @@ raspy
 rattle
 real
 rebel
+recent
 receptive
 recondite
 rectangular
@@ -1066,6 +1097,8 @@ romantic
 roomy
 root
 rose
+rotated
+rotating
 rough
 round
 rounded
@@ -1118,6 +1151,7 @@ separate
 separated
 sepia
 sequoia
+serene
 serious
 shade
 shaded
@@ -1150,9 +1184,11 @@ silken
 silky
 silly
 silver
+similar
 simple
 simplistic
 sincere
+single
 six
 sixth
 skillful
@@ -1164,6 +1200,7 @@ sleepy
 sleet
 slender
 slime
+slimy
 slow
 sly
 small
@@ -1243,6 +1280,7 @@ strong
 stump
 stupendous
 sturdy
+stylish
 suave
 subdued
 subsequent
@@ -1364,6 +1402,7 @@ universal
 unleashed
 unmarred
 unruly
+unusual
 upbeat
 useful
 utopian
@@ -1388,6 +1427,7 @@ vine
 vintage
 violet
 viridian
+visual
 vivacious
 vivid
 volcano
