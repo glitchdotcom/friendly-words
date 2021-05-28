@@ -15,7 +15,6 @@ acrylic
 act
 action
 activity
-actor
 actress
 adapter
 adasaurus
@@ -73,7 +72,6 @@ alyssum
 amaranthus
 amaryllis
 amazonsaurus
-amber
 ambert
 ambulance
 amethyst
@@ -126,7 +124,6 @@ appliance
 approach
 approval
 apricot
-april
 aquarius
 aragon
 aragosaurus
@@ -175,7 +172,6 @@ attention
 attic
 attraction
 august
-aunt
 aura
 aurora
 auroraceratops
@@ -194,7 +190,6 @@ baboon
 backbone
 background
 backpack
-bacon
 bactrosaurus
 badge
 badger
@@ -202,7 +197,6 @@ bag
 bagel
 bagpipe
 bait
-baker
 bakery
 balance
 balaur
@@ -219,7 +213,6 @@ bandicoot
 bangle
 banjo
 bank
-banon
 bar
 barbecue
 barber
@@ -235,7 +228,6 @@ baron
 baroness
 barracuda
 baryonyx
-base
 baseball
 basement
 basil
@@ -272,7 +264,6 @@ bedbug
 bee
 beech
 beechnut
-beef
 beet
 beetle
 beginner
@@ -282,14 +273,12 @@ belief
 bell
 bellflower
 bellusaurus
-belly
 belt
 beluga
 bench
 beret
 bergamot
 berry
-beryl
 beryllium
 bestseller
 bicycle
@@ -301,7 +290,6 @@ biology
 biplane
 birch
 bird
-birth
 birthday
 bismuth
 bison
@@ -319,7 +307,6 @@ blarney
 blender
 blinker
 blizzard
-blob
 block
 bloom
 blossom
@@ -335,7 +322,6 @@ bobcat
 bobble
 bobolink
 bolt
-bone
 bongo
 bonnet
 bonobo
@@ -355,7 +341,6 @@ bottom
 bougon
 bounce
 boursin
-bovid
 bow
 bowl
 bowler
@@ -379,7 +364,6 @@ breakfast
 bream
 breath
 breeze
-brian
 brick
 bridge
 brie
@@ -411,17 +395,13 @@ bug
 bugle
 building
 bulb
-bull
 bumper
 bun
-bunny
 burglar
 burn
 burrito
 burst
 bus
-busby
-bush
 butter
 buttercup
 butterfly
@@ -432,7 +412,6 @@ buzzard
 cabbage
 cabin
 cabinet
-caboc
 cacao
 cactus
 cadet
@@ -454,7 +433,6 @@ canary
 candle
 candy
 candytuft
-canid
 canidae
 cannon
 canoe
@@ -533,7 +511,6 @@ cephalopod
 ceramic
 ceratonykus
 cereal
-ceres
 cerise
 cesium
 chair
@@ -546,7 +523,6 @@ change
 channel
 chanter
 character
-chard
 charger
 chartreuse
 chasmosaurus
@@ -609,7 +585,6 @@ clavicle
 clef
 clematis
 clementine
-clerk
 click
 client
 climb
@@ -627,7 +602,6 @@ clover
 clownfish
 club
 clutch
-coach
 coal
 coast
 coaster
@@ -727,7 +701,6 @@ crater
 crawdad
 crayfish
 crayon
-cream
 creator
 creature
 credit
@@ -749,7 +722,6 @@ crowd
 crowley
 crown
 cruiser
-crush
 crustacean
 cry
 crystal
@@ -760,7 +732,6 @@ culotte
 cup
 cupboard
 cupcake
-curio
 curiosity
 curler
 currant
@@ -779,7 +750,6 @@ cymbal
 daemonosaurus
 daffodil
 dahlia
-daisy
 damselfly
 dance
 dancer
@@ -798,7 +768,6 @@ dawn
 day
 dead
 deal
-death
 debt
 decade
 decimal
@@ -842,7 +811,6 @@ dilophosaurus
 dime
 dimple
 dinghy
-dingo
 dinner
 dinosaur
 diplodocus
@@ -854,14 +822,11 @@ discovery
 dish
 distance
 ditto
-divan
 dive
 diver
-dodo
 dog
 dogsled
 dogwood
-doll
 dollar
 dolomite
 dolphin
@@ -872,7 +837,6 @@ donut
 doom
 door
 dormouse
-dosa
 double
 dove
 dracopelta
@@ -897,7 +861,6 @@ driver
 drizzle
 drop
 droplet
-drug
 drum
 dry
 dryer
@@ -921,7 +884,6 @@ earthquake
 earthworm
 earwig
 ease
-eater
 echidna
 echinacea
 echinodon
@@ -939,7 +901,6 @@ efraasia
 egg
 eggnog
 eggplant
-egret
 elbow
 elderberry
 element
@@ -948,7 +909,6 @@ elf
 elk
 ellipse
 elm
-emery
 emmental
 emoji
 emperor
@@ -973,9 +933,7 @@ epoxy
 equinox
 equipment
 era
-erica
 erigeron
-eris
 ermine
 error
 espadrille
@@ -1005,7 +963,6 @@ fact
 factory
 fahrenheit
 failing
-fairy
 falcon
 fall
 family
@@ -1101,7 +1058,6 @@ fork
 form
 forsythia
 fortnight
-fossa
 foundation
 fountain
 fowl
@@ -1166,7 +1122,6 @@ gate
 gateway
 gatsby
 gauge
-gaura
 gazelle
 gear
 gecko
@@ -1194,7 +1149,6 @@ ginger
 giraffatitan
 giraffe
 girdle
-girl
 giver
 glade
 gladiolus
@@ -1210,7 +1164,6 @@ glove
 glow
 glue
 goal
-goat
 gojirasaurus
 gold
 goldenrod
@@ -1218,7 +1171,6 @@ goldfish
 golf
 gondola
 gong
-goose
 gooseberry
 gopher
 gorgonzola
@@ -1323,7 +1275,6 @@ helicona
 helicopter
 heliotrope
 helium
-hell
 hellebore
 helmet
 help
@@ -1345,9 +1296,7 @@ hippopotamus
 hiss
 hisser
 hockey
-hole
 holiday
-holly
 hollyhock
 homburg
 homegrown
@@ -1362,7 +1311,6 @@ hoof
 hook
 hope
 horesradish
-horn
 hornet
 horse
 hortensia
@@ -1412,7 +1360,6 @@ iguanodon
 impala
 impatiens
 impulse
-inch
 income
 increase
 index
@@ -1435,13 +1382,11 @@ ironclad
 island
 isthmus
 ixia
-ixora
 jaborosa
 jackal
 jacket
 jackfruit
 jackrabbit
-jade
 jaguar
 jam
 jar
@@ -1453,12 +1398,10 @@ jaxartosaurus
 jay
 jeans
 jeep
-jelly
 jellyfish
 jersey
 jester
 jet
-jewel
 jingle
 jitterbug
 jobaria
@@ -1472,7 +1415,6 @@ judge
 judo
 juice
 jujube
-jumbo
 jump
 jumper
 jumpsuit
@@ -1482,7 +1424,6 @@ juravenator
 jury
 justice
 jute
-kale
 kangaroo
 kayak
 keeper
@@ -1492,7 +1433,6 @@ kettle
 kettledrum
 key
 keyboard
-khaan
 kick
 kicker
 kidney
@@ -1502,13 +1442,10 @@ kilometer
 king
 kingfisher
 kip
-kiss
 kitchen
 kite
 kitten
-kitty
 kiwi
-knave
 knee
 knife
 knight
@@ -1524,7 +1461,6 @@ kryptops
 kumquat
 laborer
 lace
-lady
 ladybug
 lake
 lamb
@@ -1589,7 +1525,6 @@ lightning
 lightyear
 lilac
 lillipilli
-lily
 limburger
 lime
 limit
@@ -1625,7 +1560,6 @@ logic
 longan
 longship
 look
-lord
 lotus
 louse
 lumber
@@ -1834,7 +1768,6 @@ myth
 nail
 name
 nannyberry
-nape
 napkin
 naranja
 narcissus
@@ -1890,7 +1823,6 @@ nurse
 nut
 nutmeg
 nutria
-nyala
 nylon
 nymphea
 oak
@@ -1913,7 +1845,6 @@ offer
 office
 ogre
 oil
-okapi
 okra
 olive
 olivine
@@ -1978,7 +1909,6 @@ pancreas
 panda
 paneer
 pangolin
-pansy
 panther
 pantry
 pantydraco
@@ -2056,7 +1986,6 @@ periodical
 peripheral
 periwinkle
 persimmon
-pest
 pet
 petalite
 petroleum
@@ -2067,7 +1996,6 @@ pharaoh
 pheasant
 philodendron
 philosophy
-phlox
 phone
 phosphorus
 phrase
@@ -2098,7 +2026,6 @@ piranha
 pirate
 pisces
 pitcher
-pixie
 pizza
 place
 plain
@@ -2146,7 +2073,6 @@ pomelo
 pond
 pony
 popcorn
-poppy
 poppyseed
 porch
 porcupine
@@ -2163,7 +2089,6 @@ potassium
 potato
 potential
 poultry
-pound
 powder
 power
 practice
@@ -2234,7 +2159,6 @@ quart
 quarter
 quartz
 quasar
-queen
 quesadilla
 question
 quicksand
@@ -2277,7 +2201,6 @@ ranunculus
 raptor
 raptorex
 rat
-rate
 rattlesnake
 raven
 raver
@@ -2330,7 +2253,6 @@ rice
 ricotta
 riddle
 ridge
-rifle
 ring
 ringer
 rise
@@ -2355,14 +2277,12 @@ roof
 rook
 room
 rooster
-root
 roquefort
 rose
 rosehip
 rosemary
 rotate
 roundworm
-route
 router
 rover
 rowboat
@@ -2395,7 +2315,6 @@ salmonberry
 salsa
 salt
 saltasaurus
-salto
 saltopus
 salute
 samba
@@ -2448,7 +2367,6 @@ scourge
 scowl
 scraper
 screen
-screw
 screwdriver
 scribe
 script
@@ -2465,7 +2383,6 @@ seatbelt
 second
 secretary
 secure
-sedum
 seed
 seeder
 seeker
@@ -2480,7 +2397,6 @@ server
 sesame
 session
 settee
-shad
 shade
 shadow
 shake
@@ -2511,7 +2427,6 @@ shop
 shoulder
 shovel
 show
-shrew
 shrimp
 shrine
 shroud
@@ -2537,8 +2452,6 @@ situation
 skate
 skateboard
 ski
-skiff
-skink
 skipjack
 skirt
 skull
@@ -2556,15 +2469,11 @@ slider
 slime
 slip
 slipper
-sloop
 slope
 sloth
 slouch
 slug
 smartphone
-smash
-smell
-smelt
 smile
 smoke
 snagglefoot
@@ -2700,11 +2609,9 @@ stock
 stocking
 stomach
 stone
-stool
 stop
 stoplight
 store
-stork
 storm
 story
 stove
@@ -2727,12 +2634,10 @@ submarine
 substance
 subway
 success
-suede
 sugar
 suggestion
 suit
 sulfur
-sumac
 summer
 sun
 sundae
@@ -2793,7 +2698,6 @@ tangerine
 tango
 tank
 tanker
-tapir
 tarantula
 tarascosaurus
 target
@@ -2803,7 +2707,6 @@ tarragon
 tarsal
 tarsier
 tartan
-taste
 taurus
 tax
 taxi
@@ -2854,7 +2757,6 @@ thunbergia
 thunder
 thursday
 thyme
-tiara
 tibia
 tick
 ticket
@@ -2888,12 +2790,9 @@ top
 topaz
 toque
 tornado
-torta
 tortellini
 tortoise
-tote
 toucan
-touch
 tourmaline
 towel
 tower
@@ -2929,7 +2828,6 @@ trombone
 troodon
 trouble
 trouser
-trout
 trowel
 truck
 truffle
@@ -2967,7 +2865,6 @@ twist
 twister
 typhoon
 tyrannosaurus
-ulna
 umbra
 umbrella
 uncle
@@ -2998,7 +2895,6 @@ vein
 velociraptor
 velvet
 venom
-venus
 verbena
 verdict
 vermicelli
@@ -3010,7 +2906,6 @@ veterinarian
 vibraphone
 viburnum
 vicuna
-vinca
 vinyl
 viola
 violet
@@ -3127,9 +3022,7 @@ woolen
 word
 work
 workshop
-worm
 wormhole
-wound
 wren
 wrench
 wrinkle
