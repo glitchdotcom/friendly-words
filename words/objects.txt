@@ -318,8 +318,8 @@ boar
 board
 boat
 boater
-bobcat
 bobble
+bobcat
 bobolink
 bolt
 bongo
@@ -830,12 +830,12 @@ dogwood
 dollar
 dolomite
 dolphin
-doppler
 domain
 donkey
 donut
 doom
 door
+doppler
 dormouse
 double
 dove
