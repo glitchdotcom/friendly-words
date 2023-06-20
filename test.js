@@ -1,4 +1,4 @@
-import test from 'ava';
+const test = require('ava');
 const friendlyWords = require('./index');
 const lists = ["predicates","objects","teams","collections"];
 
