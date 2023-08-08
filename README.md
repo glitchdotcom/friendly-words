@@ -49,7 +49,7 @@ Our word lists are highly-opinionated lists of *predicates* and *direct objects*
 
 `words/teams.txt`
 
-> This is a list of synonyms for "team".  They're a special subset of objects.
+> This is a list of near-synonyms for "team", including examples of collective nouns like "zeal" (a group of zebras).  They're a special subset of objects.
 
 `words/collections.txt`
 
