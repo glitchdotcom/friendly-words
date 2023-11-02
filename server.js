@@ -30,9 +30,28 @@ const pairs = (firstWords, secondWords) => {
   return pairedWords;
 }
 
+const triples = (firstWords, secondWords, thirdWords) => {
+  if(firstWords.length !== secondWords.length || firstWords.length !== thirdWords.length || secondWords.length !== thirdWords.length) {
+    console.error("Word pair collection lengths must match.");
+    return null; 
+  }
+  
+  const tripledWords = firstWords.map(
+    (firstWord, index) => (`${firstWord}-${secondWords[index]}-${thirdWords[index]}`)
+  );
+  
+  return tripledWords;
+}
+
 app.get('/word-pairs/', (req, res)=>{
   res.json(pairs(sample(friendlyWords.predicates), sample(friendlyWords.objects)));
 });
+
+app.get('/word-triples/', (req, res)=>{
+  res.json(triples(sample(friendlyWords.predicates),
+                   sample(friendlyWords.predicates), sample(friendlyWords.objects)));
+});
+
 app.get('/objects/', (req,res)=>{
   res.json(sample(friendlyWords.objects));
 });
