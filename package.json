@@ -4,6 +4,7 @@
   "description": "The Glitch word list, packaged into an NPM module for easy use.",
   "author": "Glitch <help@glitch.com>",
   "main": "index.js",
+  "types": "index.d.ts",
   "scripts": {
     "test": "ava test.js",
     "build": "node build.js",
