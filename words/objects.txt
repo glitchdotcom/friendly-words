@@ -386,7 +386,6 @@ bubbler
 buckaroo
 bucket
 buckthorn
-buckthornpepperberry
 budget
 buffalo
 buffer
@@ -1824,7 +1823,6 @@ nut
 nutmeg
 nutria
 nylon
-nymphea
 oak
 oatmeal
 objective
